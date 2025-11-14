@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
     .append("g")
     .attr("transform", `translate(${margin.left},${margin.top})`);
 
-  d3.dsv(";", "../data/clean-jobs-enriched-csv-enriched.csv").then((data) => {
+  d3.dsv(";", "clean-jobs-enriched-csv-enriched.csv").then((data) => {
     // Regrouper par entreprise et compter les offres
     const grouped = d3.rollups(
       data,

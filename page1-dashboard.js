@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const COLOR_BG_DARK = "#333";
   const COLOR_BG_BODY = "#000";
 
-  const dataPath = "../data/clean-jobs-enriched-csv-enriched.csv";
+  const dataPath = "clean-jobs-enriched-csv-enriched.csv";
 
   d3.dsv(";", dataPath)
     .then((data) => {

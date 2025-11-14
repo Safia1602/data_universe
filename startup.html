@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Data Job Analysis — Safia Lamri</title>
+    <link rel="stylesheet" href="../static/style3.css" />
+  </head>
+  <script>
+    const currentPage = window.location.pathname.split("/").pop();
+    document.querySelectorAll(".menu a").forEach((link) => {
+      if (link.getAttribute("href") === currentPage) {
+        link.style.color = "cyan";
+      }
+    });
+  </script>
+  <!--  HERO VIDEO FULLSCREEN BANNER  -->
+  <header class="hero-banner">
+    <video autoplay muted loop playsinline>
+      <source
+        src="../static/Project_Video_for_Website_Banner.mp4"
+        type="video/mp4"
+      />
+      Your browser does not support the video tag.
+    </video>
+
+    <div class="banner-overlay">
+      <div class="hero-logo">
+        <div class="logo-ring"></div>
+        <div class="logo-core"></div>
+      </div>
+
+      <h1>Navigate the Data Universe</h1>
+      <p class="subtitle">Unlocking Your Career Trajectory in Data Science</p>
+      <p class="description">
+        A data science project exploring LinkedIn job offers in the data field
+        (Data Analyst, Scientist, Engineer...) to help you understand industry
+        trends and skill demands.<br />
+        Maybe your next opportunity is written in the stars?
+      </p>
+
+      <div class="hero-buttons">
+        <a href="#about" class="hero-btn">↓ Discover the Project</a>
+      </div>
+    </div>
+  </header>
+
+  <body>
+    <nav>
+      <a href="startup.html" class="logo">Data<span>Universe</span></a>
+
+      <ul class="menu">
+        <li class="dropdown">
+          <a href="startup.html#project" class="dropdown-toggle">Project ▾</a>
+          <ul class="dropdown-content">
+            <li><a href="explanation.html">Explanation</a></li>
+            <li><a href="startup.html#objective">Objective</a></li>
+            <li><a href="startup.html#motivation">Motivation</a></li>
+            <li><a href="startup.html#tasks">Main Tasks</a></li>
+            <li><hr class="dropdown-divider" /></li>
+            <li class="dropdown-header">Results</li>
+            <li><a href="startup.html#expected">Expected Results</a></li>
+            <li><a href="startup.html#mvp">MVP</a></li>
+          </ul>
+        </li>
+
+        <li><a href="index.html">The Big Picture</a></li>
+
+        <li><a href="explorateur.html">The Job Explorer</a></li>
+
+        <li><a href="tendances.html">The Hidden Trends</a></li>
+
+        <li><a href="startup.html#contact">Contact</a></li>
+      </ul>
+    </nav>
+
+    <section id="about">
+      <h2>About the Project</h2>
+      <p>
+        This project analyzes job offers in the data field to uncover typical
+        patterns across companies, skills, and regions. It combines descriptive
+        statistics, text mining, and clustering methods to reveal how jobs
+        naturally group together.
+      </p>
+      <p>
+        <a href="explanation.html" class="hero-btn" style="margin-top: 1rem">
+          🎥 Watch the Explanation Video
+        </a>
+      </p>
+    </section>
+
+    <section id="objective">
+      <h2>Objective</h2>
+      <p>
+        The goal is to identify structural trends and natural groupings among
+        job offers using derived textual data. We apply clustering algorithms to
+        highlight key job profiles such as “Business & BI” vs. “Engineering &
+        AI”.
+      </p>
+    </section>
+
+    <section id="motivation">
+      <h2>Motivation</h2>
+      <p>
+        The data job market is vast and constantly evolving. Titles and skills
+        vary across companies and regions. This project uses a mix of semantic
+        and statistical methods to make these dynamics visible and interpretable
+        — mapping how the field is structured in practice.
+      </p>
+    </section>
+
+    <section id="tasks">
+      <h2>Main Tasks</h2>
+      <ul>
+        <li>Data cleaning and normalization of job descriptions</li>
+        <li>Automatic extraction of skills, experience, and work mode</li>
+        <li>Descriptive analysis by company, country, and role</li>
+        <li>Clustering and visualization using PCA / t-SNE</li>
+        <li>Qualitative interpretation of the resulting clusters</li>
+      </ul>
+    </section>
+
+    <section id="expected">
+      <h2>Expected Results</h2>
+      <ul>
+        <li>An enriched dataset with derived columns (skills, sector...)</li>
+        <li>Visualizations: distributions, maps, word clouds</li>
+        <li>Clusters of similar job offers</li>
+        <li>Interpretation of trends across roles and regions</li>
+      </ul>
+    </section>
+
+    <section id="insights">
+      <h2>Key Insights</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Data Cleaning</h3>
+          <p>
+            Removal of invalid rows and normalization of text fields to ensure
+            high-quality data for further processing.
+          </p>
+        </div>
+        <div class="card">
+          <h3>Skill Extraction</h3>
+          <p>
+            Automatic detection of technologies such as Python, SQL, Tableau, or
+            PowerBI from job descriptions.
+          </p>
+        </div>
+        <div class="card">
+          <h3>Clustering</h3>
+          <p>
+            Grouping similar job offers together based on their text embeddings
+            to reveal hidden structures in the job market.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section id="mvp">
+      <h2>MVP & Resources</h2>
+      <p>
+        The MVP demonstrates feasibility by clustering processed job offers
+        based on description similarity. Tools include Python (pandas,
+        scikit-learn, spaCy), and D3.js for visualization.
+      </p>
+    </section>
+
+    <section id="graph">
+      <h2>Visualization — Job Offers by Company</h2>
+      <div id="bubbleChart"></div>
+      <div style="text-align: center; margin-top: 1.5rem">
+        <a href="index.html" class="hero-btn"> Explore More Visualizations </a>
+      </div>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>
+        Created by <strong>Safia Lamri</strong> — CPES Data Science & Culture<br />
+        📧
+        <a href="mailto:safia.lamri@example.com" style="color: cyan"
+          >safia.lamri@psl.eu</a
+        >
+      </p>
+    </section>
+
+    <button id="backToTop" aria-label="Back to top">↑</button>
+
+    <footer>© 2025 Data Job Analysis | Designed by Safia Lamri</footer>
+    <div class="cursor"></div>
+    <script src="../static/script.js"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+  </body>
+</html>

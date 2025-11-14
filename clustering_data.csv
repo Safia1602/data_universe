@@ -1,0 +1,1001 @@
+id,title,company,salary_value,country,cluster_name,x,y
+1,data analyst,meta,176000.0,USA,Data Scientist (ML/Python),-2.0380447,-37.392185
+2,data analyst,meta,176000.0,USA,Data Scientist (ML/Python),-1.6685798,-37.921524
+3,data analyst,meta,176000.0,USA,Data Scientist (ML/Python),-1.3901876,-37.384308
+4,data analyst,meta,176000.0,USA,Data Scientist (ML/Python),-2.0380447,-37.392185
+5,data analyst,pinterest,207811.0,USA,Standard Data Analyst,-39.423615,-16.250769
+6,data analyst,fanduel,130000.0,USA,Junior/Business Analyst,-17.660131,30.750872
+7,"data analyst, production finance operations & innovation",netflix,240000.0,USA,Standard Data Analyst,12.675581,16.616825
+8,marketing data analyst,fanduel,101200.0,USA,Junior/Business Analyst,-2.4012568,-14.743745
+9,data analyst,sbh fashion,125000.0,USA,Junior/Business Analyst,-7.6892805,24.354202
+14,data analyst,pinterest,207811.0,USA,Standard Data Analyst,-39.423615,-16.250769
+15,data analyst,pinterest,207811.0,USA,Standard Data Analyst,-39.423615,-16.250769
+16,"data analyst, global partnerships & content",meta,176000.0,USA,Data Scientist (ML/Python),-31.463411,-32.285553
+29,data analyst,fanduel,130000.0,USA,Junior/Business Analyst,-17.660131,30.750872
+30,data analyst,finthrive,,USA,BI & Visualization Expert,-24.88883,11.55153
+31,data analyst,alice + olivia,115000.0,USA,Junior/Business Analyst,0.026567452,41.359467
+32,"data products analyst, youtube",google,176000.0,USA,Data Scientist (ML/Python),-6.395669,-22.019382
+34,customer relationship management analyst,bvlgari,,USA,Junior/Business Analyst,-0.72630787,41.550747
+35,"data analyst - sql, erp",cybercoders,184315.0,USA,BI & Visualization Expert,-19.57199,43.112705
+54,marketing data analyst,techhuman,,United States,Standard Data Analyst,-18.03454,41.425945
+55,data analyst,hamilton porter,300000.0,USA,Standard Data Analyst,-11.75753,24.890743
+56,analytics associate,brooklinen,110000.0,USA,BI & Visualization Expert,-7.417915,14.471736
+57,data analyst,equip,,United States,Standard Data Analyst,3.2903059,21.018766
+58,data analyst,toyota north america,50.0,USA,Junior/Business Analyst,-19.151287,27.075754
+59,"data & analytics, analyst",tiktok,190000.0,USA,Standard Data Analyst,22.87006,27.021292
+60,junior data analyst - remote,lensa,252806.0,United States,BI & Visualization Expert,-25.669283,16.184118
+61,"data products analyst, youtube",google,176000.0,USA,Data Scientist (ML/Python),-6.395669,-22.019382
+62,"data products analyst, youtube",google,176000.0,USA,Data Scientist (ML/Python),-6.395669,-22.019382
+63,"data products analyst, youtube",google,176000.0,USA,Data Scientist (ML/Python),-6.395669,-22.019382
+64,data analyst,sony,105000.0,USA,Standard Data Analyst,-10.263713,34.21168
+65,people data analyst,cava,50.0,USA,BI & Visualization Expert,-21.327967,12.712765
+66,customer insights analyst,nextdoor,340000.0,USA,Standard Data Analyst,1.4892964,25.392534
+67,data analyst,salt,,United States,Standard Data Analyst,5.6880455,9.960386
+68,data analyst,interex group,,United States,Standard Data Analyst,21.85884,24.281199
+69,data analyst,colibri group,,United States,BI & Visualization Expert,-32.249744,12.264705
+70,data analyst intern (fall start),aarp,,USA,BI & Visualization Expert,-20.59298,14.797418
+71,"analyst, data science",cerberus capital management,110000.0,USA,Standard Data Analyst,16.737015,25.161715
+72,data analyst,webologix ltd/ inc,,United States,BI & Visualization Expert,-18.006462,11.025391
+73,data analyst,ispot,108000.0,United States,Data Scientist (ML/Python),-14.820634,-31.033669
+74,analyst,nielseniq,,USA,Standard Data Analyst,29.415026,22.238104
+75,data analyst,ryze,,United States,BI & Visualization Expert,-8.184188,22.52817
+76,data analyst,dhl express,,USA,BI & Visualization Expert,-18.594913,6.3249416
+77,business data analyst,ltimindtree,90000.0,USA,Standard Data Analyst,3.0846143,20.230675
+78,data analyst,cgi,119200.0,USA,BI & Visualization Expert,-15.70253,4.0573497
+79,data analyst,mastech digital,,USA,BI & Visualization Expert,-22.773294,12.334884
+80,healthcare data analyst i - remote,tietalent,102400.0,United States,Junior/Business Analyst,-21.081467,29.905512
+81,data analyst (100% remote),lensa,200000.0,USA,Standard Data Analyst,5.7778864,10.006423
+82,data analyst,equiliem,,USA,Junior/Business Analyst,-22.99281,26.612947
+83,data analyst,aaratech,,USA,BI & Visualization Expert,-19.134422,13.064455
+84,data analyst,keurig dr pepper inc.,29000.0,USA,BI & Visualization Expert,-25.204832,10.178254
+85,insight analyst,spectrum,310202.0,USA,Standard Data Analyst,18.96754,21.920681
+86,sr. data analyst,rivian,146500.0,USA,Standard Data Analyst,10.898562,21.966825
+87,data analyst,consulting point,,United States,Junior/Business Analyst,-25.590393,31.09361
+88,sr. data analyst,stefanini north america and apac,35000.0,United States,Standard Data Analyst,21.850819,16.352596
+89,data analyst,ignite digital services,65000.0,USA,Junior/Business Analyst,-15.511711,30.101414
+90,data analyst contractor,instacart,,United States,Data Engineer (Cloud/Spark),8.448987,1.7001815
+91,data analyst,exxonmobil,,USA,BI & Visualization Expert,-24.946665,2.752471
+92,data analyst,ascendum solutions,,USA,Data Engineer (Cloud/Spark),3.5010788,-5.568904
+93,"analyst, data analytics & intelligence",publicis digital experience,83145.0,USA,Junior/Business Analyst,-10.380019,22.857227
+94,analista de dados junior - são paulo/sp,shopee,,Brazil,Junior/Business Analyst,-29.86446,24.5235
+95,data analyst,ltimindtree,,India,BI & Visualization Expert,-29.693014,14.273782
+96,"data platform analyst, subscriptions",roku,,India,Standard Data Analyst,2.2737691,26.222013
+98,data analyst,pion,,England,Junior/Business Analyst,-4.3191113,28.319115
+100,data analyst,aston martin f1 team,,England,BI & Visualization Expert,-8.573914,-4.5274153
+103,healthcare data analyst,infosys,,India,Standard Data Analyst,19.555878,8.62676
+108,data analyst,experian,22500.0,Bulgaria,Standard Data Analyst,20.281897,10.628398
+109,data analyst,hcltech,,India,Data Engineer (Cloud/Spark),-3.5364153,-3.60554
+110,data analyst,pt indofood cbp sukses makmur tbk - noodle division,,Indonesia,Junior/Business Analyst,-26.4101,30.007761
+111,data analyst,explore group,,England,BI & Visualization Expert,-31.040236,11.297601
+112,data analyst,pt indofood cbp sukses makmur tbk - noodle division,,Indonesia,Junior/Business Analyst,-29.137846,28.483658
+113,"lead data analyst (power bi,sql)",target,,India,Junior/Business Analyst,-12.0400305,22.629879
+115,data analyst,akt london,200000.0,England,Data Scientist (ML/Python),2.3120356,7.9315047
+116,officer - real time analytics,almosafer,,Saudi Arabia,Junior/Business Analyst,-27.436314,29.142096
+117,data analyst,adecco,,India,Standard Data Analyst,19.675997,26.169294
+118,data analyst,statusneo,,India,BI & Visualization Expert,-17.760702,7.0326405
+120,analista gestao de indicadores pl,camil alimentos s/a,,Brazil,Junior/Business Analyst,-29.902672,25.859612
+121,data analyst,tata consultancy services,,Canada,Junior/Business Analyst,-29.47448,28.545477
+122,data analyst,tlp consultancy ltd,43500.0,England,BI & Visualization Expert,-8.05137,14.068082
+125,data analyst,lorien,,England,Junior/Business Analyst,-2.2701385,41.640156
+127,data analyst,inter,,Brazil,BI & Visualization Expert,-23.117792,12.737782
+128,data analyst,explore group,,England,BI & Visualization Expert,-19.244493,6.2145085
+130,data analytics,ey,300000.0,India,Standard Data Analyst,-0.26183712,-14.519137
+131,analista de dados júnior | data viz,americanas s.a.,,Brazil,BI & Visualization Expert,-8.505055,3.2858136
+134,data analytics,ey,300000.0,India,Standard Data Analyst,-0.26183712,-14.519137
+135,"analyst, data science",american express,,India,Data Scientist (ML/Python),-13.583456,-29.906109
+136,"analyst, data science",toyota north america,,USA,Data Scientist (ML/Python),9.401752,-5.388024
+137,data analyst,kforce inc,,USA,BI & Visualization Expert,-28.112228,13.19904
+138,data analyst intern,sitezeus,,USA,Junior/Business Analyst,14.491152,13.707919
+139,business data analyst,birlasoft,12500.0,England,Standard Data Analyst,18.374691,22.251657
+140,data analyst,eviden,,England,Standard Data Analyst,11.424825,25.193403
+141,analista de dados júnior,cogna educação,,Brazil,Standard Data Analyst,21.593998,39.963554
+142,data analyst,aaratech,,United States,BI & Visualization Expert,-19.938572,12.941789
+143,data analyst,bright purple,,England,Standard Data Analyst,20.678028,8.456896
+144,business data analyst,toyota financial services (uk) plc,,England,BI & Visualization Expert,-26.471996,14.391898
+145,data analyst,searchability®,35000.0,England,BI & Visualization Expert,-27.806202,13.495335
+146,sr. data analyst,the walt disney company,161300.0,USA,Standard Data Analyst,-7.5184293,8.356209
+147,data analyst (data visualization),haybury,,Spain,Standard Data Analyst,6.6878767,9.33696
+148,data analyst,etiqa insurance singapore,,Singapore,Standard Data Analyst,17.962551,18.904781
+149,data analyst,redwood materials,,United States,BI & Visualization Expert,-16.488081,0.26924825
+150,analista de business intelligence júnior,ifood,,Brazil,Standard Data Analyst,21.593794,39.95915
+151,data associate - gurgaon,circles,,India,Standard Data Analyst,3.8552773,10.899449
+152,healthcare data analyst,sogeti,20000.0,USA,Standard Data Analyst,18.580957,8.155632
+214,data analyst,artefact,,USA,BI & Visualization Expert,-6.2339377,41.70129
+235,data analyst,teksystems,80000.0,USA,Data Scientist (ML/Python),-0.44896,-27.270119
+241,data analyst - local to pittsburgh or cleveland,cgi,121900.0,USA,BI & Visualization Expert,4.4556603,-6.7856045
+242,analista de análise de dados junior,c6 bank,,Brazil,Data Engineer (Cloud/Spark),27.370749,2.2556458
+256,data analyst,stok,113000.0,Canada,BI & Visualization Expert,-23.35468,8.292851
+267,data analyst,asana,26500.0,Poland,Standard Data Analyst,-7.819905,31.304914
+282,data analyst,aer lingus,,Ireland,Standard Data Analyst,7.3385887,23.230602
+284,data intern,doing things,,USA,Standard Data Analyst,20.519014,15.534597
+286,data analyst,redwood materials,150000.0,USA,BI & Visualization Expert,-16.490818,0.2790125
+294,data analyst,aditi consulting,,USA,BI & Visualization Expert,-28.520634,10.498695
+297,data analyst,hanson lee,,England,BI & Visualization Expert,0.07522846,-4.696663
+298,jr. data & bi analyst,a place for mom,100000.0,USA,Standard Data Analyst,8.052497,17.97609
+299,data analyst,amplytics,130000.0,USA,BI & Visualization Expert,-23.579386,7.6533093
+300,data analyst,shimentox,,United States,BI & Visualization Expert,-20.198889,6.631547
+301,data analyst,simera,,United States,BI & Visualization Expert,-19.049828,10.909147
+377,"data scientist, product analytics",meta,134000.0,USA,Product Data Scientist,-35.41062,-24.769346
+378,"data scientist, product, sustainability",google,189000.0,USA,BI & Visualization Expert,-12.322649,12.849919
+379,"data scientist, product analytics",meta,171000.0,USA,Product Data Scientist,-39.312874,-24.590967
+380,"data scientist, product analytics",meta,204000.0,United States,Product Data Scientist,-35.670765,-23.827497
+381,fraud data scientist,id.me,172486.0,USA,Standard Data Analyst,28.23575,20.805319
+382,"data scientist, product analytics",meta,204000.0,USA,Product Data Scientist,-36.369656,-25.316542
+383,data scientist,roku,,USA,Standard Data Analyst,-0.2085695,26.250563
+384,data scientist,roku,254000.0,USA,Standard Data Analyst,-0.5178456,26.07571
+385,data scientist,paramount,,USA,Data Scientist (ML/Python),13.223294,10.510506
+386,machine learning engineer (l5) - content & media ml foundations,netflix,150000.0,United States,Data Scientist (ML/Python),-4.852802,-40.198612
+387,data scientist - last mile,veho,,United States,Data Engineer (Cloud/Spark),9.792303,1.8514775
+388,"partner data scientist, growth partnerships",meta,152000.0,USA,Product Data Scientist,-35.16919,-20.917881
+389,data scientist,elder research,,USA,BI & Visualization Expert,1.9630492,-8.488459
+390,data scientist,matlen silver,,United States,Data Scientist (ML/Python),18.719172,-5.9457054
+391,"data scientist, product analytics",meta,171000.0,USA,Product Data Scientist,-35.210484,-22.89926
+392,"data scientist, product analytics",meta,204000.0,USA,Product Data Scientist,-37.455303,-26.040367
+393,data scientist,disney entertainment,168700.0,United States,Data Engineer (Cloud/Spark),9.150837,-19.426823
+394,"data scientist, marketing",tiktok,210000.0,United States,Data Scientist (ML/Python),-26.048437,-14.562856
+395,"data scientist, product analytics",meta,171000.0,USA,Product Data Scientist,-34.405178,-24.969551
+396,ai/ml engineer,conglomerateit,,USA,Data Engineer (Cloud/Spark),29.358484,-16.96446
+397,data scientist- customer lifecycle and engagement,robinhood,220000.0,USA,Data Scientist (ML/Python),16.337523,35.2981
+398,data scientist,meta,204000.0,USA,Data Scientist (ML/Python),-23.325579,-15.044649
+399,cientista de dados ii - área prevenção a fraudes,itaú unibanco,,Brazil,Data Scientist (ML/Python),-12.201495,-46.31105
+400,data scientist,raspberry pi foundation,70000.0,England,Data Scientist (ML/Python),-16.53559,-31.038813
+401,graduate data scientist,zazzle,,Ireland,Data Engineer (Cloud/Spark),4.1864996,0.96089417
+402,data scientist,doordash,,United States,Standard Data Analyst,15.295207,36.13843
+403,"staff data scientist, strategy & insights",linkedin,215000.0,USA,Data Scientist (ML/Python),17.114182,3.803735
+404,data scientist,pinterest,204820.0,United States,Data Scientist (ML/Python),-13.059644,-35.428165
+405,data scientist,nielseniq,,Portugal,Standard Data Analyst,3.5072377,18.86701
+406,data scientist/analyst,sony interactive entertainment,,Ireland,BI & Visualization Expert,-17.283714,5.517103
+407,gen ai/ml,technology,,India,Data Engineer (Cloud/Spark),32.45243,-20.853329
+408,data scientist,exl,,India,Data Scientist (ML/Python),3.1857367,14.102825
+409,data scientist,calypsoai,,Ireland,Data Scientist (ML/Python),-12.634481,-36.90719
+410,data scientist,ocbc indonesia,,Indonesia,Data Scientist (ML/Python),-0.25135556,-29.045835
+411,"data scientist, fundamental sector data",cpp investments | investissements rpc,245000.0,USA,Junior/Business Analyst,-22.856157,26.205502
+412,"machine learning engineer (berlin, germany)",enjins,,Germany,Data Engineer (Cloud/Spark),30.764065,-17.58092
+413,data scientist,mercedes-benz malaysia,,Malaysia,Data Scientist (ML/Python),3.9818118,-18.290588
+414,data scientist (l5) - app qoe,netflix,170000.0,United States,Standard Data Analyst,35.058872,24.99798
+415,data scientist,pinterest,204820.0,USA,Data Scientist (ML/Python),-13.059031,-35.428745
+416,data scientist (business operations),wolt,,Greece,Junior/Business Analyst,-26.982744,32.08067
+417,junior artificial intelligence (ai) / machine learning (ml) engineer,pingwind inc. (sdvosb),,USA,Data Scientist (ML/Python),8.177165,-12.021058
+418,junior frontend developer,coca-cola hbc,30000.0,Egypt,Standard Data Analyst,29.642538,6.524945
+420,"data scientist, product, sustainability",google,189000.0,USA,BI & Visualization Expert,-12.322441,12.850022
+421,"data scientist, product analytics",meta,171000.0,USA,Product Data Scientist,-36.662033,-23.537262
+422,data scientist (climate & geospatial),purefuel,,England,Data Scientist (ML/Python),-16.363493,-33.285767
+423,data scientist,kantar,30000.0,Mexico,Standard Data Analyst,22.478535,18.951843
+424,data scientist,largeton group,,USA,Standard Data Analyst,11.635753,12.733224
+425,cientista de dados - estágio,smi engineering,,Brazil,Data Scientist (ML/Python),-13.933445,-45.966213
+426,machine learning engineer,capgemini,,India,Data Scientist (ML/Python),9.2312355,-12.676322
+427,data scientist (entry level),network recruitment,,South Africa,BI & Visualization Expert,-18.07013,4.7775893
+428,data scientist,bbc,48000.0,England,Data Scientist (ML/Python),-9.737275,-45.51588
+429,machine learning engineer,recro,,India,Data Engineer (Cloud/Spark),29.3559,-17.759823
+430,product data scientist,checkout.com,,England,Standard Data Analyst,9.34122,33.846283
+431,data scientist,capgemini engineering,340000.0,Canada,Standard Data Analyst,-1.055197,25.51732
+432,data scientist,immersum,67500.0,England,Data Engineer (Cloud/Spark),17.754755,-21.94345
+433,machine learning engineer,infosys,,India,Data Engineer (Cloud/Spark),3.4396894,-40.977135
+434,research and development scientist,i-pharm consulting,,England,Standard Data Analyst,33.404675,14.764569
+435,data scientist senior - mlops & transformation (f/h),renault digital,,France,Data Engineer (Cloud/Spark),30.662687,-15.624966
+437,machine learning engineer,jex - recruitment for scaling businesses,30000.0,United Arab Emirates,Data Scientist (ML/Python),10.766389,-12.660219
+439,data scientist,jubilant foodworks ltd.,,India,Data Scientist (ML/Python),-7.7160654,-31.28903
+440,data scientist,discovery limited,,South Africa,Data Scientist (ML/Python),-16.788548,-29.872255
+441,data scientist,fnb south africa,,South Africa,Standard Data Analyst,39.279144,7.301973
+442,data scientist,astria digital,,India,Data Scientist (ML/Python),-0.5613907,-40.70403
+443,data scientist,sigma suisse,,Switzerland,Data Scientist (ML/Python),-18.49599,-33.240562
+444,data scientist strategy & value creation consulting,kpmg españa,,Spain,Standard Data Analyst,7.673223,25.76821
+445,data scientist (m/f/d),roadsurfer,,Spain,BI & Visualization Expert,-21.317366,0.22470683
+446,machine learning engineer,circana,,Greece,Data Scientist (ML/Python),2.2108192,-32.861176
+447,data scientist (ai/ml),collabera,,Canada,Data Scientist (ML/Python),-8.100271,-27.576124
+448,data scientist,american airlines,,USA,Data Scientist (ML/Python),20.813787,-6.504831
+449,machine learning engineer,logicmatrix,90000.0,United States,Data Scientist (ML/Python),-15.642112,-34.907093
+450,machine learning engineer,neotalent conclusion,,Portugal,Data Scientist (ML/Python),-12.096621,-38.43776
+451,ai/ml developer,swits digital private limited,,India,Data Engineer (Cloud/Spark),32.381214,-17.156004
+452,machine learning engineer,neotalent conclusion,,Portugal,Data Scientist (ML/Python),-12.096939,-38.436832
+453,ai/ml researcher,seer,,USA,Standard Data Analyst,39.463543,17.61979
+454,data scientist,aditi consulting,,United States,Data Scientist (ML/Python),33.181824,-19.887234
+455,data scientist,camping world,,USA,BI & Visualization Expert,3.7062862,-28.562496
+456,data scientist,krungthai bank,,Thaïlande,Data Scientist (ML/Python),3.8875513,-30.184065
+457,machine learning engineer,cxc,,England,Data Scientist (ML/Python),20.799442,-1.8514042
+458,"data scientist, consumer research & marketing",handshake,180000.0,USA,BI & Visualization Expert,-2.768133,17.801304
+459,"data scientist, product analytics",meta,242000.0,USA,Product Data Scientist,-36.384266,-24.449345
+460,"data scientist, product analytics",meta,171000.0,USA,Product Data Scientist,-39.11863,-25.736937
+461,"data scientist, product analytics",meta,242000.0,USA,Product Data Scientist,-39.00406,-23.452099
+462,"data scientist, product analytics",meta,171000.0,USA,Product Data Scientist,-37.832813,-23.106785
+463,"data scientist, marketing",wealthfront,211000.0,USA,Standard Data Analyst,27.376047,26.648035
+464,"data scientist, product analytics",meta,134000.0,USA,Product Data Scientist,-37.261135,-25.117672
+465,machine learning engineer,netflix,100000.0,United States,Data Scientist (ML/Python),-3.2828808,-41.180176
+467,"data scientist, product analytics",meta,134000.0,USA,Product Data Scientist,-36.517315,-26.240572
+469,data scientist,meta,204000.0,USA,Data Scientist (ML/Python),-23.325579,-15.044649
+470,"data scientist, product analytics",meta,134000.0,USA,Product Data Scientist,-35.51186,-25.786259
+472,"data scientist, product analytics",meta,134000.0,USA,Product Data Scientist,-35.773376,-26.994127
+473,"data scientist, product analytics",meta,134000.0,USA,Product Data Scientist,-37.11578,-27.203974
+474,"data scientist, product analytics",meta,134000.0,USA,Product Data Scientist,-37.304317,-24.245316
+476,"data scientist, product analytics",meta,171000.0,USA,Product Data Scientist,-38.20416,-24.357994
+477,"data scientist, product analytics",meta,242000.0,USA,Product Data Scientist,-38.28748,-26.620117
+478,ai engineer,linkedin,183000.0,USA,Data Scientist (ML/Python),-2.58794,-40.12733
+479,data scientist,meta,204000.0,USA,Data Scientist (ML/Python),-23.325579,-15.044649
+480,"data scientist, product analytics",meta,134000.0,USA,Product Data Scientist,-38.179996,-25.292807
+481,"data scientist iii, product, operations data science",google,189000.0,USA,Standard Data Analyst,-28.581802,-22.52862
+482,"data scientist, product analytics",meta,171000.0,USA,Product Data Scientist,-34.490788,-23.826872
+483,"data scientist, product analytics",meta,171000.0,USA,Product Data Scientist,-36.247623,-22.660799
+484,"data scientist iii, product, operations data science",google,189000.0,USA,Standard Data Analyst,-28.581802,-22.52862
+486,"data scientist, product analytics",meta,204000.0,USA,Product Data Scientist,-37.173634,-22.059334
+488,"data scientist, product analytics",meta,171000.0,USA,Product Data Scientist,-34.50842,-26.26676
+496,machine learning software engineer (l5) - content and studio,netflix,360000.0,United States,Data Scientist (ML/Python),35.772953,11.784962
+497,"data scientist, product analytics",meta,171000.0,USA,Product Data Scientist,-37.832813,-23.106785
+499,data scientist sr (commercial analytics),cedar,175000.0,United States,BI & Visualization Expert,-12.414864,10.503913
+577,data engineer (l5) - conversation,netflix,170000.0,USA,Data Engineer (Cloud/Spark),9.152285,1.912241
+578,data engineer (l4) - security,netflix,170000.0,USA,Data Engineer (Cloud/Spark),-2.868047,-27.52563
+579,data engineer,meta,204000.0,USA,Data Engineer (Cloud/Spark),20.552116,-26.98933
+580,"data engineer, play data science and analytics",google,267000.0,USA,Data Engineer (Cloud/Spark),7.684368,-28.061588
+581,data engineer,barstool sports,110000.0,USA,Data Engineer (Cloud/Spark),6.9978905,1.8318584
+582,data engineer,calm,210000.0,USA,Data Engineer (Cloud/Spark),27.79347,-21.147982
+583,"data engineer, infrastructure",notion,177000.0,USA,Data Engineer (Cloud/Spark),15.464399,-19.217007
+584,ml software engineer (l4/l5) - media algorithms,netflix,150000.0,USA,Data Scientist (ML/Python),38.26996,-16.775951
+585,data engineer,costco wholesale,190000.0,USA,Data Engineer (Cloud/Spark),23.494839,-5.2268806
+586,analytics engineer (l4) - acquisition,netflix,170000.0,USA,BI & Visualization Expert,-8.948213,6.8956575
+587,data engineer,meta,204000.0,USA,Data Engineer (Cloud/Spark),20.359205,-27.090965
+588,data engineer,meta,204000.0,USA,Data Engineer (Cloud/Spark),20.49291,-27.24088
+589,data engineer,walgreens,220000.0,USA,Data Engineer (Cloud/Spark),25.320831,-7.723884
+590,"data engineer, product analytics",meta,171000.0,USA,Product Data Scientist,-16.47012,-20.916393
+591,data engineer,pepsico,167500.0,USA,Data Engineer (Cloud/Spark),27.427444,-28.792381
+592,data engineer i (full time) united states,cisco,,USA,Data Engineer (Cloud/Spark),8.344075,-34.063816
+593,"software engineer l4, machine learning platform (metaflow)",netflix,464000.0,USA,Data Scientist (ML/Python),3.1196277,-31.945028
+594,"data engineer, product analytics",meta,171000.0,USA,Product Data Scientist,-13.741286,-20.885595
+595,data engineer,amazon,284769.0,USA,Data Engineer (Cloud/Spark),16.807962,-30.953869
+596,data engineer i (full time) united states,cisco,,United States,Data Engineer (Cloud/Spark),8.344091,-34.06371
+597,"data engineer, product analytics",meta,242000.0,USA,Product Data Scientist,-13.556173,-19.098413
+598,"software engineer 5, data clean room",netflix,100000.0,USA,Data Engineer (Cloud/Spark),14.70795,-15.038727
+599,data engineer,acorns,217100.0,United States,Data Engineer (Cloud/Spark),14.02325,-24.186852
+600,data engineer graduate (ads data application) - 2025 start (bs/ms),tiktok,250000.0,USA,Data Engineer (Cloud/Spark),7.9190707,-23.9105
+601,"data engineer, product analytics",meta,242000.0,USA,Product Data Scientist,-14.388582,-18.74514
+602,"data engineer, product analytics",meta,171000.0,USA,Product Data Scientist,-14.468106,-22.32986
+603,data engineer,amazon,284769.0,USA,Data Engineer (Cloud/Spark),16.808018,-30.95506
+604,data engineer,walmart,234000.0,USA,Data Engineer (Cloud/Spark),24.160887,-21.406776
+605,"data engineer, product analytics",meta,242000.0,USA,Product Data Scientist,-12.904648,-18.17151
+606,"software engineer, ai platform - new grad",nuro,170000.0,USA,Data Scientist (ML/Python),-15.174779,-41.185413
+607,"data engineer, product analytics",meta,171000.0,USA,Product Data Scientist,-13.753911,-21.72089
+608,data engineer - people analytics,twitch,205600.0,USA,Data Engineer (Cloud/Spark),18.597782,-31.63539
+609,"data engineer, e-commerce",tiktok,289469.0,USA,Data Engineer (Cloud/Spark),8.366386,-26.784721
+610,"data engineer, product analytics",meta,204000.0,USA,Product Data Scientist,-13.671877,-17.420654
+611,"data engineer, vx analytics",the walt disney company,127800.0,USA,Data Engineer (Cloud/Spark),6.979144,7.0559926
+612,data engineer,ford motor company,,USA,Data Engineer (Cloud/Spark),22.610432,-16.718822
+613,data engineer,walmart,234000.0,USA,Data Engineer (Cloud/Spark),24.313147,-21.427614
+614,"data engineer, product analytics",meta,171000.0,USA,Product Data Scientist,-15.386284,-20.92663
+615,"data engineer, product analytics",meta,171000.0,USA,Product Data Scientist,-14.534093,-20.56575
+616,"data engineer, product analytics",meta,242000.0,United States,Product Data Scientist,-14.576479,-17.521019
+617,data engineer,snap inc.,176000.0,USA,Data Engineer (Cloud/Spark),10.78131,-22.880684
+618,"data engineer, product analytics",meta,171000.0,USA,Product Data Scientist,-15.306182,-20.142849
+619,"data engineer, product analytics",meta,171000.0,USA,Product Data Scientist,-15.789342,-21.55336
+620,"data engineer, product analytics",meta,242000.0,USA,Product Data Scientist,-13.798927,-18.250423
+621,"data engineer, analytics (technical leadership)",instagram,281000.0,USA,Product Data Scientist,-17.196726,-22.307962
+622,"remote engineer, data, i",lensa,85000.0,USA,BI & Visualization Expert,-19.450287,44.01163
+623,"data engineer, analytics (technical leadership)",instagram,281000.0,USA,Product Data Scientist,-16.785429,-22.7464
+624,"data engineer, product analytics",meta,204000.0,USA,Product Data Scientist,-12.707433,-19.059967
+625,sr. data & analytics engineer,quizlet,207000.0,USA,Data Engineer (Cloud/Spark),8.298202,-0.8267969
+626,"data engineer, product analytics",meta,171000.0,USA,Product Data Scientist,-16.20196,-20.068363
+627,data engineer,cgi,121900.0,USA,Standard Data Analyst,17.400133,-7.359544
+628,data engineer,amazon,205600.0,United States,Data Engineer (Cloud/Spark),14.500389,-30.339474
+629,"data engineer, product analytics",meta,171000.0,USA,Product Data Scientist,-15.306605,-22.213549
+630,data engineer - subscriptions,spotify,179374.0,USA,Data Scientist (ML/Python),-4.4498057,-29.36734
+631,"data engineer, product analytics",meta,171000.0,USA,Product Data Scientist,-14.70012,-21.426424
+632,"data engineer, e-commerce",tiktok,,USA,Data Engineer (Cloud/Spark),8.367583,-26.796755
+633,"data engineer, digital acceleration",amazon,293237.0,USA,Data Engineer (Cloud/Spark),19.433466,-31.329582
+634,(usa) data engineer iii,walmart,234000.0,USA,Data Engineer (Cloud/Spark),34.10053,-21.960531
+636,data engineer (university grad),whatsapp,,England,Standard Data Analyst,-12.742338,-23.31486
+639,"data engineer i, in-ads",amazon,291044.0,India,Data Engineer (Cloud/Spark),15.988435,-32.007782
+640,data engineer - python,ericsson,,India,Data Engineer (Cloud/Spark),12.14539,-3.193835
+642,data engineer with python + sql,cognizant,,India,Data Engineer (Cloud/Spark),9.683916,-34.635017
+646,data engineer,capgemini,340000.0,India,Data Engineer (Cloud/Spark),19.650747,-18.36425
+647,data engineer,pwc acceleration centers,,India,Data Engineer (Cloud/Spark),23.384985,-11.59994
+648,"data engineer, product analytics",meta,,India,Product Data Scientist,-12.292084,-16.95323
+649,"data engineer, marketplace",lyft,135000.0,Canada,Data Engineer (Cloud/Spark),11.369965,-26.24313
+650,data engineer,docusign,180.0,India,Data Engineer (Cloud/Spark),25.190474,-5.9424233
+651,data engineer,persistent systems,,India,Data Engineer (Cloud/Spark),15.084913,-35.774593
+653,data engineer,thomson reuters,26000.0,India,BI & Visualization Expert,-2.7792501,3.9186637
+654,data engineer,thomson reuters,26000.0,India,BI & Visualization Expert,-3.046087,3.9148054
+655,uk 2025 data engineer internship,amazon,291757.0,England,Standard Data Analyst,16.049355,15.464212
+656,data engineer,asos.com,,England,Data Engineer (Cloud/Spark),25.065498,-10.7945795
+657,"infrastructure partner data engineer, youtube",google,,India,BI & Visualization Expert,-28.950668,-2.227328
+658,data engineer,ericsson,,India,Data Engineer (Cloud/Spark),2.3885505,5.313553
+659,"data engineer i, scot - aim",amazon,293415.0,India,Data Engineer (Cloud/Spark),13.785191,-31.688831
+660,"infrastructure partner data engineer, youtube",google,,India,BI & Visualization Expert,-28.306587,-2.4145176
+661,"data engineer i, scot - aim",amazon,293414.0,India,Data Engineer (Cloud/Spark),13.785191,-31.688831
+662,data engineer,thomson reuters,26000.0,India,BI & Visualization Expert,-2.8196542,3.9307034
+664,data engineer,banco bradesco,180.0,Brazil,Data Engineer (Cloud/Spark),4.024769,-7.5775466
+665,"infrastructure partner data engineer, youtube",google,,India,BI & Visualization Expert,-28.377893,-2.403744
+666,data operation engineer i,mckinsey & company,,India,Data Engineer (Cloud/Spark),-1.917429,-1.87708
+667,"data engineer i, scot - aim",amazon,293414.0,India,Data Engineer (Cloud/Spark),13.39547,-31.233631
+668,data engineer(aws),pwc acceleration centers,,India,Data Engineer (Cloud/Spark),16.842434,-29.078573
+669,"data engineer i, scot - aim",amazon,293414.0,India,Data Engineer (Cloud/Spark),13.120715,-31.743305
+670,data engineer,chevron,,Philippines,Data Engineer (Cloud/Spark),24.02954,-5.4039316
+671,data engineer,samba tv,,Netherlands,Data Engineer (Cloud/Spark),18.413162,-16.430925
+672,data engineer,thales,80000.0,Indonesia,Standard Data Analyst,-2.2241943,15.209609
+673,data engineer,ford motor company,,India,Data Engineer (Cloud/Spark),23.2586,-16.498697
+674,data engineer,mphasis,,India,Data Engineer (Cloud/Spark),35.90708,-22.024284
+675,associate data engineer,commonwealth bank,,India,Data Engineer (Cloud/Spark),9.810192,-30.776882
+677,data engineer - c10,citi,,India,Data Engineer (Cloud/Spark),25.01439,-25.027205
+679,data engineer - commerce platform,spotify,,England,Data Engineer (Cloud/Spark),13.255464,-14.240043
+680,data engineer,coca-cola hbc,,Egypt,Data Engineer (Cloud/Spark),21.921373,-8.868116
+682,data engineer - enterprise data operations analyst,pepsico,,India,Data Engineer (Cloud/Spark),27.459429,-27.722383
+683,data engineer,procter & gamble,125736.0,Turkey,Data Engineer (Cloud/Spark),17.893261,-14.40197
+684,data engineer - c10,citi,,India,Data Engineer (Cloud/Spark),25.01439,-25.027205
+687,python & sql data engineer_director_software engineering,morgan stanley,80000.0,India,Data Engineer (Cloud/Spark),13.51119,-3.9561443
+688,"senior software engineer, systems infrastructure",linkedin,,India,Data Engineer (Cloud/Spark),5.7183514,-21.091095
+689,data analytics engineer,checkout.com,,England,Data Engineer (Cloud/Spark),2.736364,1.7170433
+690,data engineer (platform),tiket.com,50.0,Indonesia,Data Engineer (Cloud/Spark),34.40339,-17.406178
+691,data engineer- python pyspark,virtusa,,India,Data Engineer (Cloud/Spark),18.115263,-25.908459
+692,data engineer with pyspark,cognizant,,India,Data Engineer (Cloud/Spark),14.774717,-34.908646
+693,data engineer,mercedes-benz malaysia,,Malaysia,BI & Visualization Expert,-2.2784276,-12.997632
+740,data engineer,intepros,,USA,Data Engineer (Cloud/Spark),20.457644,-32.211216
+741,data engineer,snap inc.,176000.0,USA,Data Engineer (Cloud/Spark),10.781273,-22.8807
+814,data analyst - spx express (jakarta),shopee,,Indonesia,Junior/Business Analyst,-26.801569,33.09635
+826,data analyst,exxonmobil,,USA,Data Scientist (ML/Python),17.656452,-5.3688188
+834,"data analyst ii, client analytics",omada health,149500.0,United States,Junior/Business Analyst,-19.02724,30.070662
+836,"data analyst, supply chain",spacex,115000.0,USA,BI & Visualization Expert,-23.631285,16.285933
+837,"data analyst, global partnerships & content",meta,176000.0,USA,Data Scientist (ML/Python),-31.433817,-33.277496
+840,"data products analyst, youtube",google,176000.0,USA,Data Scientist (ML/Python),-6.6325994,-21.005224
+842,"data analyst, global partnerships & content",meta,176000.0,USA,Data Scientist (ML/Python),-31.851646,-33.190292
+845,"data analyst, global partnerships & content",meta,176000.0,USA,Data Scientist (ML/Python),-31.657074,-33.30755
+846,data analyst,stripe,220300.0,Chicago,Data Engineer (Cloud/Spark),5.9679747,-27.709846
+847,data analyst,microsoft,183000.0,USA,BI & Visualization Expert,-13.76755,1.0950266
+848,data analyst,vimeo,132750.0,USA,Standard Data Analyst,-5.386306,40.585915
+849,data analyst,the walt disney company,133900.0,USA,Standard Data Analyst,1.0964786,27.81468
+850,data analyst intern,fizz,,USA,Standard Data Analyst,14.546975,3.3835292
+851,"data analyst, experimentation",fanduel,99000.0,USA,Standard Data Analyst,-25.864985,-13.474098
+858,"data & analytics, analyst",tiktok,190000.0,USA,Standard Data Analyst,22.87006,27.021292
+859,"sector analyst, mi-data",point72,115000.0,United States,Standard Data Analyst,20.835182,18.133642
+860,sql data analyst,finthrive,,United States,BI & Visualization Expert,-24.009901,13.269768
+861,data analyst,numero data,,USA,Data Engineer (Cloud/Spark),27.3492,2.1589458
+862,data analyst,avant-garde health,,USA,Junior/Business Analyst,-20.077244,30.207157
+863,"data & analytics, analyst",authentic brands group,,USA,Junior/Business Analyst,-9.762112,24.227478
+864,tiktok shop - data analyst,tiktok,232222.0,USA,Standard Data Analyst,9.928113,24.653942
+865,data analyst,mosaic north america,,USA,BI & Visualization Expert,-30.51567,13.292879
+866,data analyst,alivi,,USA,BI & Visualization Expert,-19.38929,15.316754
+867,data analyst,keurig dr pepper inc.,29000.0,USA,BI & Visualization Expert,-25.20465,10.1785755
+868,data analyst : 25-05044,"akraya, inc.",,USA,Junior/Business Analyst,-19.935545,26.637638
+869,data analyst,arc,,USA,Standard Data Analyst,1.0089867,28.73322
+870,data analyst,thryv,,United States,Standard Data Analyst,-8.147331,32.27686
+871,data analyst,"v-soft consulting group, inc.",,USA,BI & Visualization Expert,-16.524368,10.765928
+872,data analyst,novumhealth,,USA,BI & Visualization Expert,-26.049862,6.8605385
+873,data analyst (22227),orion innovation,,USA,BI & Visualization Expert,-26.716154,2.9841092
+874,bi / data analyst,kforce inc,,USA,Data Engineer (Cloud/Spark),0.46427467,1.049132
+875,data analyst,foodsmart,135000.0,United States,BI & Visualization Expert,-11.119727,12.170621
+876,data fulfillment analyst,national basketball association (nba),,USA,Standard Data Analyst,17.982672,27.457415
+877,data analyst,equifax,,USA,Data Engineer (Cloud/Spark),9.092998,-19.153833
+878,data analyst - people analytics (short-term employment),meta,,USA,Standard Data Analyst,18.144417,28.7107
+879,data analyst,javvy coffee,,United States,Standard Data Analyst,17.981096,7.3852096
+880,"analyst, analytics",publicis collective,80000.0,USA,Junior/Business Analyst,-13.225116,24.552263
+881,"specialist, commercial data reporting and analysis",delta air lines,,USA,Standard Data Analyst,19.116983,13.523052
+882,"data analyst, tom data infra team",amazon,298856.0,USA,Junior/Business Analyst,-15.418089,30.130781
+883,data analyst,virtusa,,USA,Standard Data Analyst,17.161022,6.6357327
+884,data analyst,swoon,,USA,Standard Data Analyst,-7.8133483,37.584515
+885,business intelligence analyst,altimetrik,,USA,Standard Data Analyst,10.235472,19.331831
+886,data analyst,insight global,,USA,BI & Visualization Expert,-28.26011,11.982897
+887,gtm tableau data analyst,tradeweb,180000.0,USA,Junior/Business Analyst,-17.471214,28.701435
+888,data analyst,fanduel,117500.0,USA,Standard Data Analyst,17.43172,-8.002978
+889,data analyst,shein,,United States,BI & Visualization Expert,-18.25963,8.2405615
+890,data analyst,"bell & associates, inc.",100000.0,USA,BI & Visualization Expert,-4.0863338,15.896235
+891,data analyst,pennymac,85000.0,Canada,Junior/Business Analyst,-7.213551,23.32656
+892,gtm tableau data analyst,yext,,United States,Standard Data Analyst,6.5280285,8.829524
+893,data analyst,city of new york,72298.0,USA,Junior/Business Analyst,-8.765013,38.411716
+894,esg data analyst,malk partners,85000.0,USA,Junior/Business Analyst,-23.987173,33.304043
+895,data analyst,engine,,United States,Data Scientist (ML/Python),2.9330356,9.22412
+896,data analytics,trace3,,United States,Standard Data Analyst,23.414448,19.570444
+897,data analyst,aaratech,,United States,BI & Visualization Expert,-20.091806,13.440811
+898,data analyst,jake taylor,,United States,Standard Data Analyst,3.24266,10.478256
+899,"analyst, analytics",starcom,75915.0,USA,Junior/Business Analyst,-26.145094,-12.156329
+900,data analyst intern,envoy,,USA,Standard Data Analyst,-0.2202491,30.940338
+901,"sr. data analytics and visualization analyst ($95,000 - $110,000 salary)",korn ferry,110000.0,USA,BI & Visualization Expert,-22.651625,11.376086
+902,business data analyst,appsflyer,150000.0,USA,Junior/Business Analyst,-26.430925,-11.990979
+903,data science analyst ii,experian,120560.0,USA,Data Scientist (ML/Python),-11.80079,-27.428213
+904,data analyst (various levels open),"hrcap, inc.",,United States,Standard Data Analyst,24.109964,22.401423
+905,data analyst,vevo,67500.0,USA,Junior/Business Analyst,-3.5880764,29.65642
+906,data analyst,equitable,115000.0,USA,Standard Data Analyst,-20.00106,22.748787
+907,data analyst,insight global,,USA,BI & Visualization Expert,-22.748577,15.16891
+908,retail operations data analyst,meta,149000.0,USA,Data Scientist (ML/Python),-3.0530446,-34.632233
+909,data analyst,mcmaster-carr,166500.0,USA,Standard Data Analyst,11.237115,35.269222
+910,powerbi analyst,mitchell martin inc.,,USA,Standard Data Analyst,19.756811,20.42065
+911,"business intelligence analyst, global research operations",meta,176000.0,USA,Junior/Business Analyst,-6.3159785,40.07316
+912,data analyst,picpay,,Brazil,Data Engineer (Cloud/Spark),17.124472,-10.58736
+913,data analyst,noon,,India,BI & Visualization Expert,-13.97915,15.325262
+914,insight analyst,asos.com,50.0,England,Standard Data Analyst,10.900348,35.048306
+915,data analyst staff - jakarta,pt. medquest jaya global,,Indonesia,Standard Data Analyst,-1.2877855,29.406204
+916,data analyst,propel,18.0,England,Standard Data Analyst,-2.2691813,26.883238
+918,kx analytics (tableau & sql)- analyst-hyderabad,deloitte,300756.0,India,BI & Visualization Expert,-13.972179,23.269245
+919,analista de dados jr (área de fraude) - são paulo/sp,shopee,,Brazil,Junior/Business Analyst,-30.081465,23.859144
+920,data analyst,edenred brasil,,Brazil,Data Scientist (ML/Python),-9.940951,-36.67853
+921,data analyst,schbang,,India,Junior/Business Analyst,-9.507138,27.599813
+922,internship - data analysis [rid-00469],setel,,Malaysia,Junior/Business Analyst,-24.663275,32.65984
+923,product data analyst,crypto.com,,China,Standard Data Analyst,20.40322,30.550287
+924,icici securities - data analyst - sql/python,icicidirect,,India,BI & Visualization Expert,-9.724304,1.4997298
+925,data analyst,ltimindtree,,India,Standard Data Analyst,16.820774,27.75914
+926,operation analyst-power bi & sql,tech mahindra,,India,BI & Visualization Expert,-19.784452,8.145408
+927,data analyst,la fosse,40000.0,England,BI & Visualization Expert,-25.142094,4.657026
+929,data analyst,observador,,Portugal,BI & Visualization Expert,-26.080606,18.792006
+931,"data analyst - brand analytics, regional brand partnership",shopee,,Singapore,Standard Data Analyst,9.996722,29.942682
+932,marketing data analyst,naranja x,,Argentina,BI & Visualization Expert,-25.963598,18.77386
+936,data analyst,i3,80000.0,England,BI & Visualization Expert,-25.28714,5.5275154
+938,data analyst,games24x7,,India,BI & Visualization Expert,-19.814617,1.696359
+939,data analyst,booking.com,,Netherlands,Standard Data Analyst,17.982672,27.457415
+940,data analyst,circle k,,India,BI & Visualization Expert,5.0835533,-14.982305
+942,data analyst,la fosse,50000.0,England,BI & Visualization Expert,-25.044872,5.1353536
+946,powerbi,virtusa,,India,BI & Visualization Expert,-19.382538,42.789883
+947,analista de dados de operações junior,dasa,,Brazil,BI & Visualization Expert,-29.50314,17.636196
+949,data analyst,England,,England,Junior/Business Analyst,0.25162157,6.9336467
+950,data analyst,urban gym group,,Netherlands,BI & Visualization Expert,-13.470797,2.05767
+951,data analytics,american express,175.0,India,Standard Data Analyst,-13.953524,25.207561
+952,data analyst,direcional engenharia,,Brazil,BI & Visualization Expert,-7.9483976,22.370779
+954,analista cadastro ii,a.c.camargo cancer center,,Brazil,Standard Data Analyst,15.822596,11.2678995
+956,data analyst,amboss,,Germany,Standard Data Analyst,13.658921,17.300919
+957,business intelligence analyst,upgrad,,India,BI & Visualization Expert,-1.0502228,39.959267
+958,data analyst,kindred,,India,BI & Visualization Expert,-11.295382,0.26929966
+959,"data & analytics, analyst",kpmg india,,India,Standard Data Analyst,-19.984386,22.758598
+962,"data analyst (remote, graveyard)",anytime mailbox,,Philippines,Junior/Business Analyst,-6.0943866,22.930628
+963,"quant analytics analyst - sql, python",jpmorganchase,,India,Standard Data Analyst,17.355463,34.64629
+965,data analyst,cognizant,,Ireland,Standard Data Analyst,1.9676249,14.265851
+1025,data analyst,aaratech,,United States,BI & Visualization Expert,-28.618,13.893063
+1077,data visualisation & insights analyst,nixor,,England,BI & Visualization Expert,-20.412615,5.2848
+1079,senior data analyst [t500-18077],careem,,India,BI & Visualization Expert,-15.776117,6.154705
+1081,data analyst,meta,,Brazil,BI & Visualization Expert,-16.186853,-2.8178828
+1082,business intelligence analyst,mastek,,India,BI & Visualization Expert,-19.364399,4.694306
+1083,data analytics analyst (h/f),oddo bhf,60000.0,Germany,BI & Visualization Expert,-1.7346368,39.384075
+1084,marketing data analyst,nicholson glover,,England,BI & Visualization Expert,-4.6855392,39.589046
+1085,analista de business intelligence júnior,ifood,,Brazil,Junior/Business Analyst,-6.493563,21.769936
+1206,data scientist (l5) - content,netflix,170000.0,United States,Data Engineer (Cloud/Spark),-1.4828447,-22.704756
+1207,ai research scientist,zoom,312800.0,USA,Data Scientist (ML/Python),-14.256613,-38.256676
+1208,data scientist (l5) - customer service,netflix,170000.0,United States,Standard Data Analyst,22.043453,33.57239
+1209,"data scientist, product analytics",handshake,200000.0,USA,Standard Data Analyst,0.54997987,21.128563
+1210,"data scientist (l6), games",netflix,,United States,Data Scientist (ML/Python),-16.25285,-31.566656
+1211,data scientist (l5) - customer service experimentation,netflix,170000.0,United States,Standard Data Analyst,22.024893,33.734436
+1213,growth data scientist/ analyst,crypto.com,,United States,Standard Data Analyst,-2.6801693,42.193943
+1214,data scientist,warner music group,160000.0,USA,BI & Visualization Expert,-20.344788,1.3468442
+1215,"data scientist, customer analytics (remote)",experian,174459.0,United States,Standard Data Analyst,10.3544655,6.186178
+1216,data scientist,twitch,185000.0,USA,Standard Data Analyst,28.893087,29.66978
+1217,data scientist (l5) - member algorithm foundations,netflix,170000.0,United States,Data Scientist (ML/Python),-23.624866,-31.57021
+1218,data scientist,streetid,,USA,Standard Data Analyst,22.251406,31.07399
+1219,machine learning engineer,samsung electronics,280000.0,USA,Data Scientist (ML/Python),7.3709354,-40.328033
+1220,data scientist (remote),experian,239596.0,United States,Data Scientist (ML/Python),1.663363,-31.519394
+1221,data scientist,rokt,170000.0,USA,Junior/Business Analyst,29.90044,31.775068
+1222,data scientist,elder research,,United States,Data Engineer (Cloud/Spark),16.12891,-9.493032
+1223,ai/ml engineer,blueprint,50000.0,USA,Standard Data Analyst,39.792347,21.649546
+1224,ai/ml engineer,blueprint,50000.0,USA,Standard Data Analyst,39.792347,21.649546
+1225,ai/ml engineer,blueprint,50000.0,Chicago,Standard Data Analyst,39.792347,21.649546
+1226,data scientist (remote),elder research,,USA,Data Scientist (ML/Python),19.639732,-5.2435384
+1227,"data scientist, product analytics - retail analytics",meta,281000.0,USA,Product Data Scientist,-39.905647,-29.140398
+1228,data scientist - sports analytics,inizio partners,,USA,Data Scientist (ML/Python),11.702845,-12.972337
+1229,ai/ml engineer,blueprint,50000.0,United States,Standard Data Analyst,39.792347,21.649546
+1230,data scientist,peraton,128000.0,USA,BI & Visualization Expert,-21.135323,1.3417772
+1231,machine learning engineer (l4/5) - studio media algorithms,netflix,150000.0,United States,Data Scientist (ML/Python),-3.5629992,-40.244152
+1232,machine learning engineer,bytez,,USA,Data Scientist (ML/Python),11.419244,-11.0712385
+1233,data scientist (entry level),incedo inc.,,USA,Data Scientist (ML/Python),-11.005578,-30.607239
+1234,ai/ml engineer (early-career),lockheed martin,171580.0,United States,Data Scientist (ML/Python),-5.4487085,-41.076965
+1235,"staff data scientist, locations",airbnb,240000.0,United States,Standard Data Analyst,30.416037,26.46217
+1236,data scientist,twitch,185000.0,USA,Data Scientist (ML/Python),12.800543,-43.981728
+1237,data scientist,lensa,119200.0,USA,BI & Visualization Expert,-15.118913,3.586817
+1238,operations data scientist,aspect software,,United States,Data Scientist (ML/Python),3.8884177,7.539866
+1239,data scientist,the energy authority,146278.0,USA,Data Scientist (ML/Python),19.91301,0.34917587
+1240,data scientist,illumination works,,United States,Data Scientist (ML/Python),1.6474733,-33.806717
+1241,"data scientist,  marketing analytics",ibotta,115000.0,USA,Data Scientist (ML/Python),-25.10415,-15.752519
+1242,data scientist - simulation,eli lilly and company,294800.0,USA,Data Scientist (ML/Python),-16.04598,-38.539837
+1243,"data scientist, square support",square,245400.0,United States,Standard Data Analyst,3.8368325,17.198187
+1244,data scientist,tech consulting,,United States,Data Engineer (Cloud/Spark),19.46016,-16.5415
+1246,data scientist,ascendion,150000.0,United States,Standard Data Analyst,29.76482,31.337711
+1247,data scientist,paypal,176000.0,Chicago,Standard Data Analyst,17.20786,22.3157
+1248,data scientist and analysis,randstad life sciences us,,USA,Standard Data Analyst,11.370814,5.789338
+1249,data scientist,takeda,186000.0,USA,BI & Visualization Expert,-4.593021,-11.628032
+1250,ai/ml engineer,ringside talent,,Chicago,Data Scientist (ML/Python),-18.965147,-38.665462
+1251,data scientist,disney music group,154100.0,USA,Standard Data Analyst,-0.790425,10.927701
+1252,"data scientist, product analytics - retail analytics",meta,281000.0,USA,Product Data Scientist,-39.905647,-29.140398
+1253,data scientist,ford motor company,,USA,Data Scientist (ML/Python),7.4699965,-14.82364
+1254,data scientist,the arena,,USA,Data Scientist (ML/Python),-16.382586,-33.63143
+1255,data scientist (remote),"oculus, inc.",97000.0,USA,Data Scientist (ML/Python),-17.529406,-32.262978
+1256,machine learning engineer,streetid,,USA,Data Scientist (ML/Python),-13.358939,-39.83661
+1257,data scientist,skai,145000.0,USA,Standard Data Analyst,29.096943,28.183023
+1258,data scientist sr (commercial analytics),cedar,210000.0,United States,BI & Visualization Expert,-12.354319,10.497187
+1259,"decision scientist, client analytics",simbe,,USA,BI & Visualization Expert,-8.813211,3.0010233
+1260,data scientist,techop solutions international,,USA,Data Scientist (ML/Python),6.276225,-40.73578
+1261,machine learning engineer,aviture,,USA,Data Scientist (ML/Python),-3.2831888,-41.261642
+1262,data scientist,ae studio,220000.0,United States,Data Scientist (ML/Python),-10.065386,-38.884647
+1263,product data scientist,bask health,,USA,Data Engineer (Cloud/Spark),5.5832,-32.790447
+1264,data scientist - ml & algorithms focus,conviva,200000.0,USA,Data Scientist (ML/Python),-4.923987,-25.010307
+1265,"sr. data scientist, analytics - core product",quizlet,200000.0,USA,Data Scientist (ML/Python),12.802123,-43.990047
+1266,data scientist,hdfc bank,,India,Data Scientist (ML/Python),-11.649608,-27.619532
+1269,data science specialist,banque misr,,Egypt,Data Scientist (ML/Python),-16.21611,-38.957558
+1272,cientista de dados em people analytics,cielo,,Brazil,Data Scientist (ML/Python),-14.093004,-45.958584
+1273,machine learning engineer,sodexo,,India,Data Scientist (ML/Python),6.2060437,-10.880636
+1278,data scientist,intellect group,200000.0,England,BI & Visualization Expert,-19.533527,9.925981
+1279,data scientist,mondu,,Germany,Data Scientist (ML/Python),10.803722,-8.385052
+1281,data scientist,banco de crédito bcp,,Peru,Data Scientist (ML/Python),20.257648,-7.5288434
+1283,data scientist – data science analytics and enablement (dsae),sony interactive entertainment,,England,Standard Data Analyst,17.854046,34.498596
+1284,data scientist,munich re,,United Arab Emirates,Data Scientist (ML/Python),-16.920645,-26.759804
+1285,data scientist,slb,,India,Data Scientist (ML/Python),17.301931,-1.4971068
+1286,data scientist,interbank,,Peru,Data Scientist (ML/Python),-10.573933,-46.138924
+1288,ai/ml engineer,blueprint,50000.0,Canada,Standard Data Analyst,39.792347,21.649546
+1290,machine learning engineer,advansys,,Egypt,Data Scientist (ML/Python),-16.198019,-35.90069
+1291,data scientist,protect group,,India,Data Scientist (ML/Python),-12.919434,-8.368735
+1292,data scientist,amartha,,Indonesia,Data Scientist (ML/Python),-15.15607,-32.77975
+1293,data scientist,chubb life new zealand,,New Zealand,Standard Data Analyst,28.039845,23.23452
+1294,machine learning officer - junior,inetum,28000.0,Portugal,Data Scientist (ML/Python),-12.348011,-41.914906
+1295,junior data scientist - user fraud,spotify,,Sweden,Data Scientist (ML/Python),1.7579938,29.261454
+1296,data scientist,scotiabank,225634.0,Canada,Data Scientist (ML/Python),26.645937,-19.62744
+1297,data scientist,irium,128640.0,Spain,Data Scientist (ML/Python),7.289239,-10.930718
+1298,data scientist ii - client platform,spotify,,Sweden,Standard Data Analyst,8.75357,21.538641
+1299,ai/ml engineer,techheads,,Ireland,Data Engineer (Cloud/Spark),28.459978,-11.920664
+1300,machine learning engineer,experian spanish latam,22500.0,Colombia,BI & Visualization Expert,-24.365171,0.12695107
+1301,data scientist,eden smith group,,England,Data Scientist (ML/Python),9.296404,-5.428991
+1302,data scientist,recro,,India,Data Scientist (ML/Python),28.55301,-15.628189
+1303,data scientist,chubb life new zealand,,New Zealand,Standard Data Analyst,27.834969,23.102974
+1304,"machine learning engineer ,pytorch engineering , bangalore, india",red hat,,India,Data Scientist (ML/Python),34.49675,-16.469334
+1309,data scientist,indusind bank,,India,Data Scientist (ML/Python),-12.636052,-29.361649
+1310,data scientist,chubb life new zealand,,New Zealand,Standard Data Analyst,28.039845,23.23452
+1311,data scientist,lenovo,,Malaysia,Data Scientist (ML/Python),-12.130862,-36.700546
+1312,data scientist,homebuddy,,Spain,Data Scientist (ML/Python),-9.636034,-45.319664
+1313,data scientist,coopervision,,England,BI & Visualization Expert,-19.720512,-0.095449634
+1314,data scientist,uk ministry of defence,45200.0,England,Data Scientist (ML/Python),-18.753248,-28.523685
+1315,data scientist,aurum,,England,Data Scientist (ML/Python),35.55528,-14.936943
+1316,data scientist,gruppo bcc iccrea,,Italy,Data Scientist (ML/Python),4.9901357,-19.637104
+1317,data scientist,jubilant foodworks ltd.,,India,Data Scientist (ML/Python),-7.7160654,-31.28903
+1318,data scientist,crisil,,Colombia,Standard Data Analyst,16.12161,-7.0607386
+1321,"data scientist, product, play monetization",google,,India,Data Scientist (ML/Python),-12.972966,-31.967989
+1445,analytics engineer (l5) - consumer insights dse,netflix,170000.0,USA,Standard Data Analyst,23.480024,24.988506
+1446,analytics engineer (l5) - ads,netflix,170000.0,United States,Data Scientist (ML/Python),-15.157367,-13.24986
+1447,data engineer,pepsico,167500.0,Chicago,Data Engineer (Cloud/Spark),26.927029,-29.026068
+1448,data engineer (l5) - commerce product data engineering,netflix,170000.0,United States,Data Scientist (ML/Python),-4.200841,-26.643032
+1449,data engineer,chewy,,USA,Data Engineer (Cloud/Spark),13.921421,-22.55565
+1450,data engineer,chewy,153500.0,USA,Data Engineer (Cloud/Spark),13.9170885,-22.544376
+1451,data engineer,oppo,150000.0,USA,Data Engineer (Cloud/Spark),-2.8183756,-24.512482
+1452,data engineer,finix,190000.0,USA,Data Engineer (Cloud/Spark),0.15569617,16.385012
+1453,data engineer,adobe,145500.0,USA,Data Engineer (Cloud/Spark),-5.310585,-3.2906299
+1454,data engineer (l5) - content production & promotion,netflix,170000.0,United States,Data Scientist (ML/Python),-5.170457,-26.689137
+1455,data engineer,atlassian,186800.0,USA,Data Engineer (Cloud/Spark),17.044243,-26.440966
+1456,data engineer,discord,180000.0,USA,Standard Data Analyst,-0.3321516,14.473468
+1457,data engineer - spark,"lowe's companies, inc.",300000.0,USA,Data Engineer (Cloud/Spark),4.704205,-25.190926
+1458,data engineer,pepsico,167500.0,USA,Data Engineer (Cloud/Spark),27.293968,-29.603907
+1459,software engineer (l4) - cloud network engineering,netflix,100000.0,United States,Data Engineer (Cloud/Spark),35.023705,-20.431614
+1460,data engineer,calm,234000.0,USA,Data Engineer (Cloud/Spark),27.791128,-20.889385
+1461,software engineer l5 - ads platform,netflix,100000.0,United States,Standard Data Analyst,-2.6565351,44.286026
+1462,"junior data engineer (remote, us)",sayari,120000.0,United States,Data Engineer (Cloud/Spark),26.31555,-16.440308
+1463,"data engineer, data application",tiktok,129960.0,USA,Data Engineer (Cloud/Spark),7.9218717,-23.912283
+1464,systems software engineer l4,netflix,100000.0,United States,Standard Data Analyst,21.319841,12.587536
+1465,junior data engineer,idexx,85000.0,USA,Standard Data Analyst,10.31105,16.318638
+1466,analytics engineer,google deepmind,186000.0,USA,Standard Data Analyst,6.0136595,29.71249
+1468,data engineer,indiana university indianapolis,60000.0,USA,Standard Data Analyst,22.33321,13.570953
+1469,data engineer,casey's,106600.0,USA,Data Engineer (Cloud/Spark),18.417297,-15.286946
+1470,"data engineer, personalization",spotify,228702.0,USA,Data Scientist (ML/Python),-23.634274,-38.89291
+1471,data engineer,samsara,151200.0,United States,Data Engineer (Cloud/Spark),28.02961,-22.78687
+1472,data engineer,"clyde companies, inc.",,USA,Data Engineer (Cloud/Spark),9.100512,-16.574614
+1473,data engineer,middle seat,100000.0,USA,Junior/Business Analyst,-5.666102,20.572369
+1474,data engineer,ibotta,126000.0,USA,Data Engineer (Cloud/Spark),15.194453,-24.075941
+1475,data engineer,alibaba cloud,,USA,Data Engineer (Cloud/Spark),14.429421,-36.13101
+1476,analytics engineer,doordash,256500.0,USA,Data Engineer (Cloud/Spark),5.8596573,5.436114
+1477,"data engineer - atlanta, ga",the home depot,,USA,Data Engineer (Cloud/Spark),4.881142,-2.375919
+1478,analytics engineer,doordash,256500.0,USA,Data Engineer (Cloud/Spark),5.9076033,5.2126784
+1479,"senior data engineer, snowflake",presidio,,United States,Data Engineer (Cloud/Spark),12.429117,-18.835217
+1480,data engineer,discord,220500.0,USA,Standard Data Analyst,-0.23235011,14.616376
+1481,experienced data engineer - data engineering,plaid,243000.0,USA,Data Engineer (Cloud/Spark),4.6233306,17.144835
+1482,data engineer,handshake,230000.0,USA,Data Engineer (Cloud/Spark),25.792551,-18.833334
+1483,data / bi engineer,veracity software inc,,United States,BI & Visualization Expert,-21.157726,6.407564
+1484,data engineer,sigma,180000.0,USA,Data Engineer (Cloud/Spark),17.553495,-19.740576
+1485,"data engineer, product analytics",meta,204000.0,USA,Product Data Scientist,-15.095742,-18.23168
+1486,data engineer,adobe,145500.0,USA,Data Engineer (Cloud/Spark),-5.3107657,-3.290559
+1487,"data engineer i (reno, nv/ hybrid, us)",bombora,100000.0,USA,Data Engineer (Cloud/Spark),25.134876,-18.269203
+1488,"data engineer ii, pubtech data, insights & analytics",amazon,296414.0,USA,Data Engineer (Cloud/Spark),7.8331494,-40.13569
+1489,data engineer,leader bank,,United States,Data Scientist (ML/Python),3.0083187,7.52679
+1490,"data engineer, cpsa",amazon,298352.0,USA,Data Engineer (Cloud/Spark),8.02833,-30.38065
+1491,analytics engineer,doordash,256500.0,USA,Data Engineer (Cloud/Spark),5.6683397,5.2837343
+1492,data engineer,tubi,275000.0,USA,Data Engineer (Cloud/Spark),-0.3850751,44.546947
+1493,"data engineer, p2 science, data, and insights",amazon,296756.0,USA,Data Engineer (Cloud/Spark),18.52413,-31.80756
+1494,software engineer 4 - tv & web player platform,netflix,100000.0,USA,Standard Data Analyst,22.10005,11.132028
+1495,junior data engineer,medpace,5000.0,USA,BI & Visualization Expert,-3.8601937,1.4316952
+1496,software/ai engineer (new grad),furtherai,180000.0,USA,Standard Data Analyst,24.007761,14.973338
+1497,"software engineer (l5), ads supply",netflix,100000.0,United States,Standard Data Analyst,19.346855,16.79478
+1498,sr. data & analytics engineer,rivian,172000.0,USA,Data Engineer (Cloud/Spark),6.7307954,0.24617907
+1499,data engineer,appfolio,130000.0,USA,Data Engineer (Cloud/Spark),33.791306,-24.055887
+1500,data engineer,pepsico,197500.0,USA,Data Engineer (Cloud/Spark),28.044073,-28.896858
+1501,data engineer,sewerai,160000.0,USA,Data Engineer (Cloud/Spark),15.441714,-15.200605
+1502,data engineer,tech mahindra business process services,,USA,Data Scientist (ML/Python),-14.829346,-34.462784
+1503,"software engineer, search infrastructure",notion,260000.0,USA,Data Engineer (Cloud/Spark),12.759763,-24.769209
+1504,data engineer,appfolio,130000.0,Chicago,Data Engineer (Cloud/Spark),33.791306,-24.055887
+1505,data engineer,pwc india,,India,Standard Data Analyst,-6.358089,24.458174
+1507,"data engineer, itc",nike,,India,Data Engineer (Cloud/Spark),19.9433,-21.841272
+1508,icici securities - data engineer - python/sql/etl,icicidirect,,India,Data Engineer (Cloud/Spark),8.415709,-28.737246
+1512,"data engineer, pricing",lyft,135000.0,Canada,Data Engineer (Cloud/Spark),11.8726015,-26.822388
+1514,data engineer,asos.com,,England,Data Engineer (Cloud/Spark),25.065498,-10.7945795
+1515,"data engineer, davengers(data avengers)",amazon,296548.0,India,Data Engineer (Cloud/Spark),12.568144,-30.459293
+1516,junior data engineer ( python and sql ) - 2 to 3 years only,nielseniq,,India,Data Engineer (Cloud/Spark),16.236582,-15.554189
+1517,"data engineer , aladdin data - associate",blackrock,,India,Data Engineer (Cloud/Spark),7.819531,10.690973
+1518,data engineer,indigo,170.0,Canada,Data Engineer (Cloud/Spark),12.853606,-2.6450179
+1519,data engineer @ cdmx,cinepolis corporativo,33000.0,Mexico,Data Engineer (Cloud/Spark),15.055288,-12.600475
+1521,data engineer (medior),the heineken company,130000.0,Netherlands,Data Engineer (Cloud/Spark),16.816036,-7.724607
+1522,reporting data engineer,ey,300000.0,India,BI & Visualization Expert,-5.7562127,0.59791356
+1523,data & software engineer (l5) — productivity metrics and system insights,netflix,,Poland,Data Scientist (ML/Python),-2.8231392,-25.716152
+1524,data insights and analytics engineer,nvidia,,India,BI & Visualization Expert,-12.035935,5.1138616
+1526,data engineer,exxonmobil,,Thaïlande,Data Engineer (Cloud/Spark),9.667506,-33.823753
+1527,aws data engineer,kpmg india,,India,Data Engineer (Cloud/Spark),20.376947,-31.09238
+1528,"data engineer, experimentation",lyft,135000.0,Canada,Data Engineer (Cloud/Spark),11.370501,-26.243061
+1529,data insights and analytics engineer,nvidia,,India,BI & Visualization Expert,-12.036093,5.114031
+1531,data engineer specialist,banco bradesco,180.0,Brazil,Data Engineer (Cloud/Spark),23.981127,-11.816027
+1532,junior data engineer,crédit agricole cib,,Singapore,Data Engineer (Cloud/Spark),5.56172,-6.8000135
+1533,data engineer - content understanding,spotify,,England,Data Engineer (Cloud/Spark),12.995338,-15.520241
+1534,data engineer,dario,,India,Data Engineer (Cloud/Spark),3.7764874,-2.6498995
+1536,junior data engineer with python,volkswagen digital:hub,,Spain,Data Engineer (Cloud/Spark),15.963598,-35.201763
+1612,data analyst,stripe,220300.0,United States,Data Engineer (Cloud/Spark),5.968471,-27.706285
+1613,"data analyst, social measurement",meta,122000.0,USA,Data Scientist (ML/Python),-2.7233546,-35.524082
+1614,data analyst,miami heat,,USA,BI & Visualization Expert,-23.643799,5.182694
+1619,ejecutivo data analysis,cinepolis corporativo,32244.0,Mexico,BI & Visualization Expert,-29.142065,15.36846
+1620,analista dados e indicadores jr,ypê,,Brazil,BI & Visualization Expert,-30.361778,17.8622
+1623,sisley,data analyst,,France,BI & Visualization Expert,-23.439938,14.710959
+1640,"data scientist, gtm",notion,170000.0,USA,Standard Data Analyst,21.996157,31.213114
+1641,data scientist,turn/river capital,175000.0,USA,Standard Data Analyst,15.183685,1.9432288
+1642,data scientist intern,delta air lines,,USA,Data Scientist (ML/Python),-15.103392,-28.138577
+1645,data scientist,godrej agrovet limited,,India,Data Engineer (Cloud/Spark),-7.746685,-2.7120528
+1646,data scientist yape,yape,17.0,Peru,Data Scientist (ML/Python),18.416534,-2.9536788
+1647,data scientist intern,ericsson,,Spain,Data Scientist (ML/Python),2.1258512,-16.37415
+1666,data engineer,netflix,170000.0,United States,Data Scientist (ML/Python),-4.1132956,-26.388542
+1667,data engineer,netflix,170000.0,United States,Data Engineer (Cloud/Spark),7.3629684,-30.41096
+1668,data analytics engineer,meta,134000.0,USA,Product Data Scientist,-15.367731,-23.913069
+1673,data engineer,box8,,India,BI & Visualization Expert,3.7688787,-2.3452091
+1699,data analyst,paramount pictures,70000.0,USA,Standard Data Analyst,9.939088,5.8484592
+1702,detail-oriented data analyst,jsw sports pvt. ltd,,India,Standard Data Analyst,16.478888,24.33557
+1703,"analyst, analytics & insights",deloitte,,India,BI & Visualization Expert,-30.908033,10.64073
+1705,data analyst,meta,,England,Standard Data Analyst,9.9657955,22.98387
+1708,******** ** *****,instituto unibanco,,Brazil,BI & Visualization Expert,3.7196655,-6.4969587
+1723,data scientist,zest ai,,United States,Data Scientist (ML/Python),-7.5788713,-28.812368
+1727,data scientist,therapynotes,120000.0,USA,Data Scientist (ML/Python),-1.284135,-45.88859
+1729,data scientist,deloitte,,India,Data Engineer (Cloud/Spark),-2.4256573,-7.325519
+1731,cientista de dados (júnior),sicoob,18.0,Brazil,BI & Visualization Expert,-33.124214,16.432676
+1732,data scientist,datarisk,,Brazil,Data Scientist (ML/Python),-16.096354,-34.083923
+1734,data scientist,masdar,,England,BI & Visualization Expert,-10.064873,0.8515095
+1759,"data engineer, itc",nike,,India,Data Engineer (Cloud/Spark),17.636791,-17.936865
+1762,software engineer jr,takamol holding,,Saudi Arabia,Standard Data Analyst,23.307352,11.89776
+1778,data analyst,"ryan companies us, inc.",124000.0,USA,BI & Visualization Expert,-23.489761,2.9852526
+1779,data analyst,centerpoint energy,116841.0,USA,Data Engineer (Cloud/Spark),7.722852,-16.098215
+1781,data analyst,boost mobile,90200.0,USA,BI & Visualization Expert,-8.458235,20.934254
+1784,business data analyst,connective talent,,USA,Junior/Business Analyst,-6.1650825,5.9086885
+1785,data analyst,heluna health,,USA,Junior/Business Analyst,-22.598906,29.274525
+1789,report/data analyst,key benefit administrators,,USA,BI & Visualization Expert,-2.882508,0.99621135
+1790,data analyst,aureon consulting,,USA,Standard Data Analyst,21.387972,25.38705
+1791,data analyst,howmet aerospace,,USA,BI & Visualization Expert,-15.94281,-4.1966596
+1792,data analyst,"delphi-us, llc - peacemakers in the talent war",,USA,Standard Data Analyst,7.777012,33.365482
+1793,business data analyst,covetus,,United States,Junior/Business Analyst,-32.15625,32.99329
+1795,data analyst,commonwealth of kentucky,,USA,BI & Visualization Expert,-28.644238,14.468336
+1796,data analyst,aaratech,,United States,BI & Visualization Expert,-19.43575,12.574594
+1797,data analyst,a-line staffing solutions,,USA,Junior/Business Analyst,-25.141857,26.942957
+1798,data analyst,aaratech,,United States,BI & Visualization Expert,-20.460997,11.785113
+1799,business systems analyst,ttc group,,USA,Standard Data Analyst,-8.929003,8.389814
+1801,data analyst,moomoo,120000.0,USA,BI & Visualization Expert,-16.956608,14.48538
+1802,entry level analyst - data & analytics,concord,65000.0,USA,Standard Data Analyst,-12.065217,25.178205
+1803,data analyst,inspyr solutions,,USA,Data Engineer (Cloud/Spark),-0.15623324,-26.152315
+1804,data analyst,aaratech,,United States,BI & Visualization Expert,-19.451237,13.646315
+1805,data analyst (various levels open),"hrcap, inc.",,United States,Standard Data Analyst,24.083158,22.423265
+1806,data analyst,aaratech,,United States,BI & Visualization Expert,-20.694782,11.857704
+1807,data analyst,activtrak,,USA,BI & Visualization Expert,-4.0873036,15.840917
+1808,data analyst,largeton group,,USA,Standard Data Analyst,-2.036955,43.119896
+1809,data analyst,vertisystem,,USA,BI & Visualization Expert,-26.484892,11.734424
+1810,data analyst,forest lawn memorial parks and mortuaries,,USA,Junior/Business Analyst,-23.593609,31.24069
+1811,data analyst,inspyr solutions,,USA,BI & Visualization Expert,-7.952082,5.857075
+1812,data analyst,abbott,100000.0,USA,BI & Visualization Expert,-23.075586,13.511288
+1813,data analyst,healthcare.com,,Chicago,BI & Visualization Expert,-5.8079085,14.008852
+1814,data analyst,centerpoint energy,135444.0,USA,Data Engineer (Cloud/Spark),7.6762896,-16.12413
+1815,data analyst (social analytics-- lucasfilm),the walt disney studios,104800.0,USA,Junior/Business Analyst,-13.938119,24.055782
+1816,"data & analytics, analyst",endeavor,,USA,Junior/Business Analyst,-23.848274,27.915941
+1818,data analyst,brooksource,,USA,BI & Visualization Expert,-21.315483,42.203415
+1819,data analyst,janus research group,,USA,Standard Data Analyst,12.632911,22.960453
+1820,data analyst,"pyramid consulting, inc",,USA,BI & Visualization Expert,-21.333626,42.204567
+1821,data analyst,"cape henry associates, acquired by janus research group",,USA,Standard Data Analyst,12.633208,22.960278
+1822,data analyst,"h3c, llc",,USA,Standard Data Analyst,19.794874,12.156168
+1823,data analyst,nbcuniversal,105000.0,USA,Standard Data Analyst,9.65444,25.891905
+1824,"data analyst | research data analyst ii, jc-480387",California Department of Public Health,480387.0,USA,BI & Visualization Expert,-17.371872,13.591871
+1825,data analyst,corporate tools,95000.0,USA,Standard Data Analyst,2.5506415,10.861442
+1826,business data analyst,dhl supply chain,,USA,Standard Data Analyst,24.503035,29.508083
+1827,"analyst, analytics",zenith,83145.0,USA,Junior/Business Analyst,-12.781116,23.690279
+1828,data analyst,fm talent,,United States,Standard Data Analyst,-21.901587,-22.397678
+1829,data analyst/ report writer level: 3,connect tech+talent,,USA,Junior/Business Analyst,-19.819162,41.59289
+1830,data analyst,huntley community school district 158,,USA,Standard Data Analyst,38.28654,7.5815268
+1831,data analyst,sjrc texas | belong,,USA,Standard Data Analyst,9.275342,22.5782
+1832,data analyst,tech consulting,,United States,Data Engineer (Cloud/Spark),0.6013634,-3.8265743
+1833,data analyst,sca health,78000.0,United States,Junior/Business Analyst,-19.559072,29.883532
+1834,data analyst,accel entertainment,130000.0,USA,BI & Visualization Expert,-20.201214,16.101774
+1835,data analyst,laborde products,,USA,Standard Data Analyst,23.513258,31.067642
+1836,data analyst,helic & co.,,United States,BI & Visualization Expert,-13.926239,14.160769
+1837,data analyst,abbott,,USA,BI & Visualization Expert,-22.30009,15.8595295
+1839,data analyst,foodpanda,40000.0,Taiwan,Junior/Business Analyst,-7.3204246,27.747295
+1841,data analyst,apna mart,,India,Standard Data Analyst,21.769844,23.839748
+1842,alternant data analyst,como,,France,BI & Visualization Expert,-1.1948617,39.8562
+1843,quantitative researcher,quantech partners,,United Arab Emirates,Standard Data Analyst,39.92094,16.950943
+1844,data analyst,growthassistant,100000.0,Philippines,Junior/Business Analyst,-4.4533763,22.796566
+1846,data analyst,experian,23300.0,Bulgaria,Standard Data Analyst,14.96496,2.3890707
+1848,data analyst,pyjamahr,,India,BI & Visualization Expert,-8.372661,18.521032
+1849,data analyst intern,hypersonix inc.,,India,Junior/Business Analyst,-19.431637,31.884113
+1851,data analyst,pyjamahr,,India,BI & Visualization Expert,-7.4858484,18.467865
+1852,mis officer,cairo bank uganda,,Uganda,BI & Visualization Expert,-29.243628,12.970411
+1853,data analyst,pyjamahr,,India,BI & Visualization Expert,-7.4858484,18.467865
+1854,"data analyst (payment, fintech)",delivery hero,,Germany,Standard Data Analyst,0.8029719,14.430947
+1855,data analyst,pyjamahr,,India,BI & Visualization Expert,-8.372661,18.521032
+1856,associate - data researcher,forbes advisor,,India,Standard Data Analyst,35.670467,16.857197
+1857,alternance data analyst f/h,la poste groupe,232000.0,France,BI & Visualization Expert,-19.270557,5.001873
+1858,data analyst,instituto goiano de oncologia e hematologia (ingoh),18.0,Brazil,BI & Visualization Expert,-27.808998,16.024363
+1859,data analyst,pyjamahr,,India,BI & Visualization Expert,-7.9575005,17.78992
+1860,data analyst,time dotcom berhad,,Malaysia,Standard Data Analyst,-0.30907005,30.047466
+1862,business data analyst,brightchamps,,India,Junior/Business Analyst,-12.748347,29.600977
+1863,data analyst,foodpanda,40000.0,Malaysia,Junior/Business Analyst,-6.640355,27.521708
+1864,data analyst,foodpanda,40000.0,Malaysia,Junior/Business Analyst,-7.022974,27.332066
+1867,data analyst,apside,,France,Standard Data Analyst,18.056469,11.596216
+1868,data analyst h/f en alternance,lagardère travel retail,,France,BI & Visualization Expert,-26.714436,5.1861873
+1871,data analyst,neostella,,Mexico,Standard Data Analyst,-9.143747,34.5304
+1872,data analyst,ups,,England,Junior/Business Analyst,-25.166079,30.042656
+1873,data analyst - digital asset,enable technology,60000.0,England,Standard Data Analyst,14.024561,30.331032
+1876,data analyst,colliers,,England,Standard Data Analyst,15.185324,20.865234
+1878,data analyst,neostella,,Colombia,Standard Data Analyst,-9.143747,34.5304
+1879,研究所-数据岗,天风证券股份有限公司,,China,Standard Data Analyst,20.721779,13.989144
+1880,data analyst,vallourec,,France,BI & Visualization Expert,-15.796737,-1.2303224
+1881,data analyst,hays,,England,BI & Visualization Expert,-27.879213,14.978911
+1882,data analyst - gestión financiera,banco sabadell,,Spain,Standard Data Analyst,17.982672,27.457415
+1883,senior data analyst (marketing),foodpanda,40000.0,Singapore,Junior/Business Analyst,-6.8266535,28.123487
+1884,sr. data analyst,frávega,,Argentina,Standard Data Analyst,-7.386271,9.090869
+1886,analista de dados | fortaleza | aldeota | presencial,tecla t,,Brazil,BI & Visualization Expert,-7.180092,21.392567
+1887,data analyst,s&p global,315425.0,India,Junior/Business Analyst,-28.504013,34.207916
+1889,analista de dados e produtividade comercial (porto alegre/rs),ambev,,Brazil,BI & Visualization Expert,-30.098242,17.278488
+1892,data analyst (data visualization),weekday (yc w21),,India,BI & Visualization Expert,-4.1720924,8.822629
+1893,data analyst,ltimindtree,,India,BI & Visualization Expert,4.5597234,18.033634
+1897,data analyst,s&p global,315425.0,India,Junior/Business Analyst,-28.503994,34.20771
+2014,ai automation specialist,foley,75000.0,United States,Data Scientist (ML/Python),1.6541226,-43.664913
+2015,ai automation specialist,foley,75000.0,United States,Data Scientist (ML/Python),1.6541226,-43.664913
+2016,ai automation specialist,foley,75000.0,United States,Data Scientist (ML/Python),1.1826314,-43.257732
+2017,"data scientist, product analytics",handshake,,USA,Standard Data Analyst,0.54997987,21.128563
+2020,"analyst, data science",ups,,USA,BI & Visualization Expert,-23.051523,2.2984333
+2021,ai researcher,handshake,,USA,Standard Data Analyst,38.888844,15.865777
+2022,data scientist,exiger,,USA,Data Scientist (ML/Python),-20.096909,-34.83561
+2023,data scientist,exiger,,USA,Data Scientist (ML/Python),-20.096874,-34.835655
+2024,ai/ml scientist ii,dentsply sirona,,USA,Data Scientist (ML/Python),-19.38557,-40.157383
+2025,machine learning engineer,fractal,185000.0,USA,Data Scientist (ML/Python),4.925136,-19.563637
+2026,"manager, data science",linkedin,268000.0,USA,Data Scientist (ML/Python),-6.8543954,-28.741514
+2027,data scientist,"take2 consulting, llc",,USA,Data Engineer (Cloud/Spark),17.044735,0.5541774
+2028,machine learning engineer,numero data,,United States,Data Scientist (ML/Python),10.414047,-9.819982
+2029,machine learning engineer,ascendion,140000.0,United States,Data Engineer (Cloud/Spark),30.811821,-19.724579
+2030,data scientist intern,formfactor inc.,,USA,BI & Visualization Expert,-21.701288,-0.30665207
+2031,data scientist,inspyr solutions,,USA,BI & Visualization Expert,-7.0434103,-10.120375
+2032,ai / machine learning engineer,lockheed martin,171580.0,USA,Data Scientist (ML/Python),36.05357,-14.8952265
+2033,data scientist,caterpillar inc.,155400.0,USA,Data Scientist (ML/Python),-3.6211677,-38.32216
+2034,machine learning engineer,procept biorobotics,,USA,Data Scientist (ML/Python),-14.270543,-36.63112
+2035,python developer,cititec,140000.0,USA,Standard Data Analyst,31.35616,1.7440792
+2036,machine learning research scientist,quantix search,210000.0,USA,Data Scientist (ML/Python),-13.81186,-37.58327
+2037,ml/ai engineer with nlp specialization - founding engineer,helios,240000.0,USA,Standard Data Analyst,40.699783,2.808901
+2038,analytics scientist,ford motor company,,USA,Standard Data Analyst,10.928278,-7.4460287
+2039,data scientist,strider technologies,,USA,Standard Data Analyst,25.592312,27.084812
+2040,"data scientist iii, research, youtube ads",google,202000.0,USA,Data Scientist (ML/Python),-18.468737,-30.87845
+2041,react developer,spot freight,,USA,Standard Data Analyst,20.674028,2.071546
+2042,"ml data linguist, alexa ai",amazon,300289.0,USA,Data Scientist (ML/Python),-25.45838,-34.35339
+2043,"data scientist, load forecasting",nrg energy,,USA,Data Scientist (ML/Python),18.685596,-2.8562574
+2044,data scientist,invenia group,,USA,Data Engineer (Cloud/Spark),16.55164,-38.099762
+2045,machine learning engineer,ultralytics,,USA,Data Scientist (ML/Python),37.433403,-15.091026
+2046,data scientist,"openarc, llc.",,USA,Data Scientist (ML/Python),2.899238,-11.258661
+2047,data scientist,tundra technical solutions,,USA,Data Scientist (ML/Python),4.7281737,-31.202217
+2048,associate scientist - translational research,insight global,90000.0,USA,Standard Data Analyst,33.28968,16.173489
+2049,machine learning engineer,baselayer,225000.0,USA,Data Scientist (ML/Python),-10.851424,-31.565964
+2050,front end developer i,lake trust credit union,,England,Standard Data Analyst,19.599394,1.6490262
+2051,data review scientist,charles river laboratories,228238.0,USA,Standard Data Analyst,19.309889,14.9184265
+2052,data scientist,ogc global,,United States,Junior/Business Analyst,-21.131935,-8.131434
+2053,data scientist,tata consultancy services,110000.0,USA,Data Engineer (Cloud/Spark),1.389087,-5.9463677
+2054,data scientist,connectedx inc.,,USA,Data Scientist (ML/Python),3.9397697,-33.84459
+2055,"ml data linguist, alexa ai",amazon,300290.0,USA,Data Scientist (ML/Python),-25.45838,-34.35339
+2056,"ml data linguist, alexa ai",amazon,300290.0,USA,Data Scientist (ML/Python),-25.45838,-34.35339
+2120,ai automation specialist,foley,75000.0,USA,Data Scientist (ML/Python),1.9335281,-43.11703
+2123,ai/ml engineer,dentsply sirona,,USA,Data Scientist (ML/Python),-19.294744,-39.966652
+2168,junior data analyst (powerbi),between technology,,Spain,Standard Data Analyst,21.570179,23.084105
+2170,data analyst,zurich insurance,,Spain,BI & Visualization Expert,-26.776978,13.436388
+2175,senior - python+sql,kpmg india,,India,Standard Data Analyst,26.189352,10.557769
+2176,senior associate_power bi/tableau_data &analytics_advisory_pan india,pwc india,,India,BI & Visualization Expert,-16.221533,8.183765
+2177,in-senior associate _ databricks_data & analytics _advisory _pan india,pwc india,,India,Data Engineer (Cloud/Spark),23.986189,-7.1185155
+2178,senior associate databricks data analytics advisory,pwc,,India,Data Engineer (Cloud/Spark),23.837326,-7.2608123
+2180,"**-****** ********** *** +****** , ***** **** **** **&******************",pwc,,USA,Data Engineer (Cloud/Spark),22.136536,-7.7992096
+2181,senior associate databricks data analytics advisory,pwc,,India,Data Engineer (Cloud/Spark),24.034868,-7.5193644
+2185,data scientist,why hiring,,USA,Data Scientist (ML/Python),-12.583839,-34.479664
+2188,data scientist,los angeles rams,100000.0,USA,Standard Data Analyst,0.25488734,11.131383
+2194,data scientist,rtn,,Italy,Data Scientist (ML/Python),2.464474,-30.627087
+2195,data scientist jr,senovo it ltd,180.0,France,Standard Data Analyst,23.837662,12.589543
+2196,ai/machine learning developer,expansion,,Canada,Data Scientist (ML/Python),-0.14259174,-45.89842
+2197,ai research scientist: aec. remote us or canada,autodesk,,Canada,Data Scientist (ML/Python),-4.460083,-42.32799
+2199,machine learning engineer i (underwriting),affirm,142000.0,Canada,Data Scientist (ML/Python),-11.011272,-35.405685
+2200,software training specialist,pandell-esg,,Canada,Standard Data Analyst,25.592375,16.770388
+2201,front-end developer,morgan stanley,,Canada,Standard Data Analyst,20.579908,4.2480574
+2203,data scientist,ninedots.io,120000.0,Ireland,Standard Data Analyst,23.934055,5.048779
+2204,applied scientist,docusign,180.0,Ireland,Data Scientist (ML/Python),-11.227315,-39.60783
+2205,applied scientist,docusign,180.0,Ireland,Data Scientist (ML/Python),-11.227315,-39.60783
+2208,ai product engineer,ingenio global,90000.0,Ireland,Standard Data Analyst,35.11012,24.572922
+2222,data engineer,american express,,USA,Data Engineer (Cloud/Spark),22.838568,-2.3156536
+2224,data engineer (internal team),workana,,Chile,Data Engineer (Cloud/Spark),8.537247,0.7288932
+2225,data analyst,banco falabella chile,,Chile,Standard Data Analyst,-3.4840477,42.172832
+2226,data analyst,falabella,,Chile,Standard Data Analyst,-1.4350549,13.371219
+2227,analista de datos,planes sec,,France,Junior/Business Analyst,-29.671366,25.535698
+2228,data engineer,contact center,,USA,Standard Data Analyst,23.92694,5.0280914
+2229,data engineer,sii group,21015.0,USA,BI & Visualization Expert,-18.323954,3.3805532
+2231,data engineer,openforce,,USA,BI & Visualization Expert,-2.819827,2.1204734
+2232,fraud science data engineer,paypal,,USA,Data Engineer (Cloud/Spark),31.337835,-16.180931
+2233,data science engineer,avnet,,USA,BI & Visualization Expert,-8.101873,-2.0932903
+2234,data engineer,******** *********,,USA,BI & Visualization Expert,-2.7362907,-11.95905
+2237,data engineer,csaa insurance group (csaa ig),,USA,Data Engineer (Cloud/Spark),13.801764,-28.297413
+2238,account manager - landscaping,cagwin & dorward,,USA,Standard Data Analyst,30.91195,13.250051
+2239,cleaner,a & j fencing,,USA,Standard Data Analyst,25.53239,14.3368
+2240,swim instructor,solar swim,50.0,USA,Standard Data Analyst,21.98856,14.826549
+2241,pilates instructor,stretchlab- irvine spectrum,,USA,Standard Data Analyst,28.063227,17.091343
+2242,sales associate oakley,oakley,200000.0,USA,Standard Data Analyst,32.53312,18.040884
+2243,oakley - specialized consultant,oakley,200000.0,USA,Standard Data Analyst,30.282804,17.784842
+2244,business operations analyst,jamy interactive,70000.0,USA,Standard Data Analyst,-5.5487804,40.00636
+2245,sales associate target optical,target optical,200000.0,USA,Standard Data Analyst,32.494442,18.070898
+2246,onsite english teacher (west san jose),ustar education(onsite),,USA,Standard Data Analyst,33.207466,8.921738
+2247,local defender - cybersecurity,colsa,,USA,Standard Data Analyst,25.987955,8.100997
+2248,contract and procurement specialist,jamy interactive,85000.0,USA,Junior/Business Analyst,-27.21521,34.827892
+2249,part time sales associate (santa clara),apm monaco,,USA,Standard Data Analyst,31.511568,18.11664
+2250,assistant tennis professional,the bay club company,,USA,Junior/Business Analyst,-26.817432,30.034681
+2251,department manager,petco,173424.0,USA,Junior/Business Analyst,-33.275997,29.036362
+2252,groomer,petco,173424.0,USA,Standard Data Analyst,38.41961,7.5288796
+2253,assistant store manager,petco,173424.0,USA,Junior/Business Analyst,-33.203335,28.665796
+2254,department manager,petco,173424.0,USA,Junior/Business Analyst,-33.275513,29.037106
+2255,general manager,24 hour fitness,,USA,Standard Data Analyst,30.786758,13.567711
+2256,fitness coach new hire,24 hour fitness,50.0,USA,Standard Data Analyst,33.455795,8.278813
+2257,scheduling coordinator,"capstone logistics, llc",,USA,Standard Data Analyst,20.722937,13.989574
+2258,work with us!,blinq,100000.0,USA,Data Engineer (Cloud/Spark),0.114194326,-23.457464
+2259,director of sales - peninsula del rey,peninsula del rey,47.0,USA,Standard Data Analyst,27.390795,17.128633
+2260,"strategy associate, youtube",google,170000.0,USA,Standard Data Analyst,-40.768677,-22.25045
+2261,engagement and events coordinator,minted,,USA,Standard Data Analyst,-1.0128751,43.853947
+2262,public relations assistant account executive,allison worldwide,60000.0,USA,Junior/Business Analyst,-25.870275,28.897099
+2263,don't see your role below?,"arsenal biosciences, inc.",,USA,Standard Data Analyst,20.722197,13.989319
+2264,multiple positions,venturesoft,180960.0,USA,Standard Data Analyst,33.17621,8.838059
+2265,multiple positions,cloudwick,225000.0,USA,Data Scientist (ML/Python),-13.702482,-32.78989
+2272,data analyst,marketplace partner payments,,USA,BI & Visualization Expert,-5.268688,13.624499
+2273,control systems senior data analyst,colsa,,USA,BI & Visualization Expert,-21.099747,10.605757
+2274,senior it business analyst (mda),colsa,,USA,Standard Data Analyst,26.520838,8.927215
+2275,"research/data analyst, senior",colsa,,USA,Standard Data Analyst,15.6200285,18.596941
+2276,cyber security analyst,chenega corporation,369514.0,USA,Junior/Business Analyst,-29.117968,30.890558
+2277,"data analyst senior - c&ib data management (sql, stm-source to target mapping)",pnc financial services group,148460.0,USA,Data Scientist (ML/Python),-17.479996,-24.888857
+2278,"sr. consultant, data analytics & reporting",cargill,160000.0,USA,Standard Data Analyst,12.040587,17.699778
+2279,"data & analytics, analyst",authentic brands group,,USA,Junior/Business Analyst,-9.76555,24.223177
+2280,data analyst - commercial marketing data & analytics,microsoft,222600.0,USA,BI & Visualization Expert,-11.599965,-3.5405352
+2281,data analyst - commercial marketing data & analytics,microsoft,222600.0,USA,BI & Visualization Expert,-11.607756,-3.293301
+2282,senior applications analyst - oracle hcm cloud,delta dental ins.,174300.0,USA,Standard Data Analyst,17.170519,13.537751
+2283,insight analyst,antenna,80000.0,USA,Junior/Business Analyst,-3.533023,29.514812
+2284,business analyst- sr consultant i-remote - national general,national general insurance,,USA,Standard Data Analyst,30.702518,-2.389231
+2285,senior it security risk analyst (remote),the hanover insurance group,,USA,Standard Data Analyst,26.892654,8.7604065
+2286,iis data analyst ii,bcd,70000.0,USA,Standard Data Analyst,17.215067,9.21699
+2287,business analyst,lams technology llc,,USA,Standard Data Analyst,14.578671,23.910305
+2288,customer insights analyst,despegar,,Argentina,BI & Visualization Expert,-11.203569,13.29266
+2289,it data analyst - system access,houston methodist,,USA,Standard Data Analyst,12.77744,20.717196
+2290,senior analyst omnichannel,kforce inc,,USA,BI & Visualization Expert,-8.287109,5.730117
+2291,senior insight analyst,nielseniq,,England,Standard Data Analyst,2.9153013,19.89472
+2292,data analyst,fanatics,22000.0,England,Standard Data Analyst,9.122255,23.90653
+2293,data analyst,fanatics,22000.0,England,Standard Data Analyst,9.122255,23.90653
+2294,"sr. analyst - data, strategy & product analytics",realtor.com,,USA,BI & Visualization Expert,-13.230614,11.39458
+2295,business data analyst,lpl financial,139000.0,USA,Data Engineer (Cloud/Spark),0.22447422,4.2523675
+2296,data analyst - construction,swinerton,140000.0,USA,BI & Visualization Expert,-4.5619636,10.704438
+2299,senior martech and ai manager,jfrog,,USA,Standard Data Analyst,29.416235,11.747818
+2301,glaxosmithkline llc – principal programmer,gsk,,USA,Data Scientist (ML/Python),-17.862436,-36.22781
+2302,senior ai agent engineer,workday,297600.0,USA,Data Scientist (ML/Python),-7.6802726,-47.141438
+2303,"distinguished architect, ai platform",palo alto networks,,USA,Standard Data Analyst,23.13674,8.995588
+2304,data scientist,ogc global,,USA,Junior/Business Analyst,-20.891123,-8.161188
+2305,ml/ai engineer with nlp specialization - founding engineer,helios,240000.0,USA,Standard Data Analyst,40.701256,2.808208
+2306,data scientist,inspyr solutions,,USA,BI & Visualization Expert,-7.043148,-10.120469
+2307,"senior machine learning engineer, dsp",nexxen,220000.0,USA,Data Scientist (ML/Python),-5.562352,-28.548197
+2308,senior azure & epic ai engineer,luxoft,,USA,Data Scientist (ML/Python),1.3581206,-41.94138
+2309,entry level full stack ai engineer,hyperproof,,USA,Data Scientist (ML/Python),-2.4709074,-42.2589
+2310,data analyst,smith.ai,150000.0,USA,BI & Visualization Expert,-5.813147,36.447598
+2311,principal ai/ml scientist (remote),tealium,190000.0,USA,Data Engineer (Cloud/Spark),28.806896,-22.828577
+2312,director of artificial intelligence (ai) and innovation,highervisibility,90000.0,USA,Standard Data Analyst,29.140545,11.211082
+2313,"senior research scientist, life sciences",pointclickcare,144000.0,Canada,Data Scientist (ML/Python),-28.055016,-16.2226
+2314,"senior research scientist, life sciences",pointclickcare,148000.0,USA,Data Scientist (ML/Python),-28.055016,-16.2226
+2315,data scientist,ogc global,,USA,Junior/Business Analyst,-21.131935,-8.131434
+2317,data scientist,made tech,115000.0,England,Data Scientist (ML/Python),11.462901,-13.249661
+2318,data scientist,deloitte,,India,Data Engineer (Cloud/Spark),-2.4263597,-7.326158
+2319,cientista de dados (júnior),sicoob,18.0,Brazil,BI & Visualization Expert,-33.124214,16.432676
+2320,"ai researcher, handshake ai",handshake,,USA,Standard Data Analyst,38.780453,15.638185
+2321,actuaire - data scientist - prévoyance (h/f),crédit mutuel méditerranéen,,France,Junior/Business Analyst,-27.235146,26.89349
+2322,analyste développeur  (h/f),crédit mutuel méditerranéen,,France,Standard Data Analyst,17.555256,15.707869
+2323,actuaire - data scientist - prévoyance (h/f),assurances crédit mutuel,,France,Junior/Business Analyst,-27.235006,26.893486
+2324,contrôleur de gestion et data scientist/ingénieur (h/f),assurances crédit mutuel,,France,Standard Data Analyst,17.444368,17.937279
+2325,graduate software engineer,bending spoons,149636.0,France,Data Engineer (Cloud/Spark),34.776463,-19.391191
+2326,software engineer (x/f/m) - health services,alan,32000.0,France,Standard Data Analyst,34.917835,23.687614
+2327,"data scientist, product analytics",handshake,,USA,Standard Data Analyst,0.77642936,21.329533
+2328,data scientist informatique quantique (h/f),euro information developpements / eid,,France,Data Scientist (ML/Python),-17.41052,-34.746296
+2329,senior prompt & ai/ml engineer - remote,uplers,180000.0,USA,Standard Data Analyst,38.425236,-10.033869
+2330,senior automation testing engineer (python),miratech,,India,Data Engineer (Cloud/Spark),24.312906,0.13763262
+2337,data analyst - commercial marketing data & analytics,microsoft,222600.0,USA,BI & Visualization Expert,-11.774962,-3.400842
+2339,data analyst (100% remote),lensa,102000.0,USA,BI & Visualization Expert,-18.093813,17.083202
+2344,business analyst,,140000.0,USA,Standard Data Analyst,23.277128,16.853855
+2348,data analyst,sharaf dg,,United Arab Emirates,Junior/Business Analyst,-8.889711,27.252363
+2349,data analyst,itaú chile,,USA,BI & Visualization Expert,-20.8708,4.0273814
+2350,"data analyst ii, smart",wayfair,,India,Data Scientist (ML/Python),-23.032885,-16.750486
+2357,data engineer - databricks,lumenalta,,Canada,Data Engineer (Cloud/Spark),16.923878,-9.674699
+2358,data engineer,zayzoon,,Canada,Data Engineer (Cloud/Spark),14.265647,-14.51216
+2359,data engineer,colliers,130000.0,Canada,Data Engineer (Cloud/Spark),19.551197,-14.357346
+2360,"data lake reporting analyst, deloitte global technology",deloitte,129050.0,Canada,BI & Visualization Expert,-28.442257,8.441461
+2361,data analyst,government of alberta,94068.0,Canada,BI & Visualization Expert,-9.2992935,-0.2882786
+2362,data collector - school of public health,futurecare health,,USA,Standard Data Analyst,27.66949,14.301487
+2363,data engineer,spectraforce,,USA,Data Engineer (Cloud/Spark),13.718945,-29.790634
+2364,business intelligence analyst - tableau - remote us,lensa,90000.0,USA,Junior/Business Analyst,-17.19086,34.65819
+2365,"senior data engineer (san antonio, austin and dallas)- data solutions",h-e-b,,USA,Data Engineer (Cloud/Spark),28.087727,-18.022337
+2366,data analyst,texas health and human services,10785.0,USA,Junior/Business Analyst,-23.869026,29.914902
+2367,"sr. analyst, retail global analytics and insights (up&e)",universal products & experiences,95000.0,Universal City,BI & Visualization Expert,-9.89504,7.318575
+2368,machine learning engineer,ascendion,150000.0,USA,Data Engineer (Cloud/Spark),31.026348,-19.935894
+2370,data scientist,peerlogic,,USA,Standard Data Analyst,13.705075,30.793213
+2374,data scientist,the value maximizer,,United States,Data Engineer (Cloud/Spark),29.917736,-18.275011
+2375,data scientist (l5) - member algorithm foundations,netflix,170000.0,USA,Data Scientist (ML/Python),-23.624964,-31.570337
+2376,data scientist,cadent,,USA,Data Scientist (ML/Python),3.4448667,-16.297733
+2381,machine learning research engineer,luminance,,England,Data Scientist (ML/Python),-12.869309,-38.563408
+2382,junior data science – (hybrid),niq for retail,,Brazil,Standard Data Analyst,25.933836,19.825096
+2384,senior python / ai engineer : hybrid (mumbai),uplers,,USA,Standard Data Analyst,14.442751,7.587088
+2386,senior systems engineer,hays,,Australia,Standard Data Analyst,32.32871,-2.3924072
+2387,senior data scientist - personalization,fanduel,186000.0,USA,Data Scientist (ML/Python),19.318493,-7.2253885
+2388,data scientist,honeywell,,USA,Data Scientist (ML/Python),4.9535394,-16.274996
+2389,senior software engineer (ai integration),fivecast,,Australia,Data Scientist (ML/Python),-7.6332164,-47.137207
+2390,data scientist,visionaire partners,,USA,Data Scientist (ML/Python),10.564414,-9.714806
+2391,"data scientist, quantitative research",ice,,USA,Standard Data Analyst,13.921704,-1.2049251
+2392,data engineer,pepsico,167500.0,Chicago,Data Engineer (Cloud/Spark),27.905706,-29.522024
+2393,associate data engineer,rxante,,USA,Standard Data Analyst,6.538285,23.243626
+2394,analytics engineer (l5) - ads,netflix,170000.0,USA,Data Scientist (ML/Python),-15.157367,-13.24986
+2395,"data engineer ii (azure, databricks, python)",walgreens,220000.0,USA,Data Engineer (Cloud/Spark),28.69444,-4.591383
+2396,"data engineer ii (azure, databricks, python)",walgreens,220000.0,USA,Data Engineer (Cloud/Spark),28.694513,-4.591278
+2397,senior software engineer i,uplers,,USA,Standard Data Analyst,31.902319,-3.3093033
+2398,data engineer,virtusa,,India,Data Engineer (Cloud/Spark),17.910036,-23.031075
+2399,usefulbi corporation - senior devops engineer - aws cloud services,usefulbi corporation,,India,Data Engineer (Cloud/Spark),36.30303,-19.7365
+2400,infrastructure engineer iii - data center e end user - indaiatuba/sp,john deere,,Brazil,Standard Data Analyst,34.13691,-2.1330214
+2401,senior analytics data engineer - indaiatuba/sp,john deere,,Brazil,Data Engineer (Cloud/Spark),2.8873982,-9.427283
+2418,applied scientist - safety ml,amazon.com,223400.0,USA,Data Scientist (ML/Python),-10.43883,-40.73109
+2427,data engineer,kitsap credit union,140000.0,USA,Data Engineer (Cloud/Spark),-2.111184,-2.9386132
+2428,senior staff it data engineer,palo alto networks,235500.0,USA,Data Engineer (Cloud/Spark),21.831413,-18.696653
+2429,senior data engineer - cloud data platform,charles schwab,160000.0,USA,Data Engineer (Cloud/Spark),28.205662,-11.691369
+2430,staff production dba/data engineer,cdk global,185000.0,USA,Data Engineer (Cloud/Spark),30.63038,-22.796011
+2431,data engineer,csa,50.0,USA,Data Scientist (ML/Python),-8.385902,38.390556
+2432,"full stack big data software engineer, senior",booz allen hamilton,198000.0,USA,Data Engineer (Cloud/Spark),33.914074,-13.246151
+2433,data engineer,clear capital,,USA,Data Engineer (Cloud/Spark),30.47314,-23.261461
+2434,master data engineer,d.a. davidson companies,185000.0,USA,Standard Data Analyst,10.685891,19.335545
+2435,senior data collection engineer (spain),centric software,,USA,Data Engineer (Cloud/Spark),17.930235,0.99266714
+2436,data engineer,piper companies,150000.0,USA,Data Engineer (Cloud/Spark),20.864063,-9.126018
+2437,data engineer,sonepar,,USA,BI & Visualization Expert,-2.0729928,-0.44809934
+2438,data engineer,bamboo health,,USA,Data Engineer (Cloud/Spark),30.671782,-24.225086
+2439,data engineer,miracle consulting inc.,151377.0,USA,Data Engineer (Cloud/Spark),2.511234,2.415646
+2440,data engineer,mercury insurance company,199452.0,USA,Data Engineer (Cloud/Spark),25.634748,-30.513668
+2441,healthcare data engineer (remote - virtual dementia care),,130000.0,USA,Data Engineer (Cloud/Spark),14.184181,-18.277147
+2442,data engineer,r1 rcm,134521.0,USA,Data Engineer (Cloud/Spark),22.856586,-8.406634
+2443,data analyst,buckingham search,,Chicago,BI & Visualization Expert,-21.699608,13.279948
+2444,"analyst, analytics",capital rx,85000.0,USA,Standard Data Analyst,9.169545,3.6319427
+2445,senior prompt & ai/ml engineer - remote,uplers,180000.0,India,Standard Data Analyst,38.425236,-10.033869
+2446,contract senior quality analyst - data migration,park place technologies,21000.0,USA,Standard Data Analyst,31.806116,-3.0922196
+2447,senior c# developer,uplers,,India,Standard Data Analyst,31.343359,-0.14704841
+2448,senior c# developer,uplers,,USA,Standard Data Analyst,31.343359,-0.14704841
+2449,personal lines product senior analyst,westfield insurance,,USA,Standard Data Analyst,16.832796,23.905031
+2457,intelligence analyst,ccs global tech,,United States,Standard Data Analyst,31.9331,9.417018
+2458,senior data center operations analyst,ensono,83200.0,USA,Junior/Business Analyst,-27.42515,31.124231
+2459,data analyst - construction,swinerton,140000.0,USA,BI & Visualization Expert,-4.5619636,10.704438
+2460,business intelligence analyst - tableau - remote us,lensa,90000.0,USA,Junior/Business Analyst,-17.19086,34.65819
+2461,business intelligence intern,lensa,,USA,Standard Data Analyst,-1.356109,42.860737
+2462,data analyst,mantech,50.0,USA,Data Scientist (ML/Python),0.84968746,-17.039343
+2463,data analyst,lensa,50.0,USA,Data Scientist (ML/Python),0.84998316,-17.039019
+2476,data scientist,terna spa,,Italy,Data Scientist (ML/Python),2.464474,-30.627087
+2478,data scientist (l5) - ads (forecasting),netflix,170000.0,USA,Data Scientist (ML/Python),-20.263903,-31.121458
+2481,data scientist (python) - mumbai - assistant vice president,citi,,India,Junior/Business Analyst,-17.821917,28.510796
+2484,devops engineer,enlighten,130000.0,USA,Data Engineer (Cloud/Spark),32.649853,-10.321948
+2485,devops engineer,enlighten,170000.0,USA,Data Engineer (Cloud/Spark),33.27121,-10.156174
+2486,devops engineer,"mission technologies, a division of hii",130000.0,USA,Data Engineer (Cloud/Spark),32.649853,-10.321948
+2487,devops engineer,"mission technologies, a division of hii",170000.0,USA,Data Engineer (Cloud/Spark),32.649853,-10.321948
+2491,data engineer,atlassian,186800.0,USA,Data Engineer (Cloud/Spark),17.044243,-26.440966
+2496,analytics engineer (l5) - new content experiences,netflix,170000.0,USA,Data Engineer (Cloud/Spark),6.5675907,-28.715649
+2499,analyst data engineer,deloitte,,India,Data Engineer (Cloud/Spark),19.101265,-23.434145
+2500,"data engineer, itc",nike,,India,Data Engineer (Cloud/Spark),17.863428,-17.997948
+2501,"data engineer, itc",nike,,India,Data Engineer (Cloud/Spark),19.943233,-21.84122
+2502,"data engineer, itc",nike,,India,Data Engineer (Cloud/Spark),17.77467,-18.122082
+2503,data/software engineer h/f,leonar,,France,Data Engineer (Cloud/Spark),37.4099,-19.445105
+2504,data engineer(h/f),thales,81000.0,France,Data Engineer (Cloud/Spark),32.438515,-14.9183235
+2505,alternance - data engineer h/f,mc2i,,France,Standard Data Analyst,1.4642,19.76587
+2506,stage - data engineer (h/f),safran.ai (ex preligens),,France,Data Engineer (Cloud/Spark),38.331528,-19.980484
+2507,software engineer - android,blinq,100000.0,Australia,Data Engineer (Cloud/Spark),0.20332995,-23.448225
+2509,data engineer,ey,,France,Data Engineer (Cloud/Spark),30.682499,-16.978247
+2511,lead network engineer,kforce inc,,USA,Data Engineer (Cloud/Spark),16.58959,-38.129967
+2512,principal data engineer,oracle,199500.0,USA,Data Scientist (ML/Python),-23.432987,-26.534607
+2513,principal data engineer,oracle database,199500.0,USA,Data Scientist (ML/Python),-23.228014,-26.38468
+2514,principal data engineer,oracle database,199500.0,USA,Data Scientist (ML/Python),-23.228014,-26.38468
+2515,global technology strategy analyst,jpmorganchase,50000.0,USA,Junior/Business Analyst,-30.21878,31.197857
+2519,cyber security analyst,chenega corporation,369514.0,USA,Junior/Business Analyst,-29.117968,30.890558
+2520,rcm business analyst - remote,tenet healthcare,135.0,USA,Junior/Business Analyst,-32.17216,33.034817
+2521,senior gis/data management analyst,"carollo engineers, inc.",,USA,Standard Data Analyst,25.910913,11.767997
+2531,data science senior associate - card data & analytics,jpmorganchase,,USA,Data Scientist (ML/Python),4.661963,-30.235973
+2532,vice president data scientist marketing analytics - consumer bank,jpmorganchase,,USA,Standard Data Analyst,-27.831562,-14.653762
+2533,lead data scientist - finance technology,jpmorganchase,,USA,Data Scientist (ML/Python),1.849939,-29.282362
+2534,applied ai/ml - vice president,jpmorganchase,,USA,Data Scientist (ML/Python),32.682934,-21.229647

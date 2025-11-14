@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Data Job Analysis | Hidden Trends</title>
+    <link rel="stylesheet" href="../static/style.css" />
+  </head>
+  <body>
+    <div class="cursor"></div>
+    <nav>
+      <a href="startup.html" class="logo">Data<span>Universe</span></a>
+
+      <ul class="menu">
+        <li class="dropdown">
+          <a href="startup.html#project" class="dropdown-toggle">Project ▾</a>
+          <ul class="dropdown-content">
+            <li><a href="explanation.html">Explanation</a></li>
+            <li><a href="startup.html#objective">Objective</a></li>
+            <li><a href="startup.html#motivation">Motivation</a></li>
+            <li><a href="startup.html#tasks">Main Tasks</a></li>
+            <li><hr class="dropdown-divider" /></li>
+            <li class="dropdown-header">Results</li>
+            <li><a href="startup.html#expected">Expected Results</a></li>
+            <li><a href="startup.html#mvp">MVP</a></li>
+            <li><a href="graphs.html">Visualizations</a></li>
+          </ul>
+        </li>
+
+        <li><a href="index.html">The Big Picture</a></li>
+
+        <li><a href="explorateur.html">The Job Explorer</a></li>
+
+        <li><a href="tendances.html">The Hidden Trends</a></li>
+
+        <li><a href="startup.html#contact">Contact</a></li>
+      </ul>
+    </nav>
+
+    <header class="hero-banner-simple">
+      <h1>Hidden Trends</h1>
+      <p class="subtitle">Semantic analysis and job clustering.</p>
+    </header>
+
+    <main>
+      <section id="clustering-viz" class="reveal">
+        <h2>Mapping the Data Job Universe</h2>
+        <p class="story-intro">
+          We used a Machine Learning algorithm (TF-IDF + K-Means) to group
+          similar job offers together. Each dot is a job offer. The closer they
+          are, the more similar their descriptions.
+        </p>
+        <div class="card chart-card full-width" id="svd-container">
+          <div id="viz-svd"></div>
+        </div>
+      </section>
+
+      <section id="cluster-details" class="reveal">
+        <h2>Decoding the 6 Typical Profiles</h2>
+
+        <div class="table-container card">
+          <table class="styled-table">
+            <thead>
+              <tr>
+                <th>Cluster</th>
+                <th>Interpreted Profile</th>
+                <th>Dominant Titles & Keywords</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td class="cluster-id c0">0</td>
+                <td>
+                  <strong>Data Product Science / ML Analytics</strong
+                  ><br />Hybrid between data science & product analysis. Impact
+                  measurement, A/B testing, ML applied to digital products.
+                </td>
+                <td>
+                  <em
+                    >data scientist, product analytics, machine learning
+                    engineer</em
+                  ><br /><small
+                    >data, meta, product, learning, analytics, python</small
+                  >
+                </td>
+              </tr>
+              <tr>
+                <td class="cluster-id c1">1</td>
+                <td>
+                  <strong>Generalist Data & AI / International Tech</strong
+                  ><br />Multidisciplinary profiles oriented towards cloud AI
+                  (AWS) and applied data science. Strong technical versatility.
+                </td>
+                <td>
+                  <em>data scientist, data engineer, ai/ml engineer</em
+                  ><br /><small>netflix, aws, ai, python, analyst</small>
+                </td>
+              </tr>
+              <tr>
+                <td class="cluster-id c2">2</td>
+                <td>
+                  <strong>Business Intelligence / Data Reporting</strong
+                  ><br />Heart of classic data analytics: descriptive analysis,
+                  visualization (Tableau, PowerBI), and decision-making KPIs.
+                </td>
+                <td>
+                  <em>data analyst, business data analyst</em><br /><small
+                    >bi, business, tableau, power, excel, reporting</small
+                  >
+                </td>
+              </tr>
+              <tr>
+                <td class="cluster-id c3">3</td>
+                <td>
+                  <strong>Machine Learning & Cloud Engineering</strong
+                  ><br />Oriented towards infrastructure, production, and MLOps.
+                  Advanced technical profile (Azure, pipelines, deployment).
+                </td>
+                <td>
+                  <em>data engineer, devops, data scientist</em><br /><small
+                    >azure, engineering, machine learning, ai, product</small
+                  >
+                </td>
+              </tr>
+              <tr>
+                <td class="cluster-id c4">4</td>
+                <td>
+                  <strong>AI Strategy / Analytics Engineering</strong
+                  ><br />Intermediate hybrid roles between data engineering, AI
+                  strategy, and automation.
+                </td>
+                <td>
+                  <em>analytics engineer, ai specialist</em><br /><small
+                    >ai, aws, learning, sql, strategy</small
+                  >
+                </td>
+              </tr>
+              <tr>
+                <td class="cluster-id c5">5</td>
+                <td>
+                  <strong>Junior Data Analyst / Entry-level</strong
+                  ><br />Accessible profiles, oriented towards data quality and
+                  basic reporting. Lighter but solid technical expertise (SQL,
+                  Excel).
+                </td>
+                <td>
+                  <em>data analyst, data linguist</em><br /><small
+                    >tableau, reporting, excel, skills, bi</small
+                  >
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section id="cluster-axes" class="reveal">
+        <h2>The 3 Major Market Axes</h2>
+        <div class="card-grid">
+          <div class="card axis-card">
+            <h3>Applied Science & ML</h3>
+            <div class="clusters-badges">
+              <span class="badge c0">Cluster 0</span>
+              <span class="badge c1">Cluster 1</span>
+              <span class="badge c3">Cluster 3</span>
+            </div>
+            <p>
+              Jobs with a strong technical component: machine learning, cloud,
+              modeling, AI, infrastructure.
+            </p>
+          </div>
+          <div class="card axis-card">
+            <h3>Analytics & BI</h3>
+            <div class="clusters-badges">
+              <span class="badge c2">Cluster 2</span>
+              <span class="badge c5">Cluster 5</span>
+            </div>
+            <p>
+              Roles centered on visualization, reporting, KPIs, and transforming
+              data into insights.
+            </p>
+          </div>
+          <div class="card axis-card">
+            <h3>Hybrid Strategy / Automation</h3>
+            <div class="clusters-badges">
+              <span class="badge c4">Cluster 4</span>
+            </div>
+            <p>
+              Intermediate functions blending technical skills with product
+              strategy or AI automation.
+            </p>
+          </div>
+        </div>
+      </section>
+      <section id="analysis-section">
+        <div class="analysis-container">
+          <h2>Decoded: What this map really tells us</h2>
+          <p class="intro-text">
+            This visualization is more than just colored dots; it is a semantic
+            territory map of thousands of job descriptions. By using
+            dimensionality reduction (SVD), we've translated textual
+            similarities into spatial distances.
+          </p>
+
+          <div class="analysis-grid">
+            <div class="analysis-card">
+              <h3>1. A Shared Technical Core</h3>
+              <p>
+                <strong>Observation:</strong> The
+                <span style="color: #1f77b4">Data Product</span>,
+                <span style="color: #9467bd">AI Strategy</span>, and
+                <span style="color: #d62728">ML Engineering</span> clusters are
+                distinct but situated very close to each other in the
+                center-left region.
+              </p>
+              <p>
+                <strong>Interpretation:</strong> While these roles have
+                different end-goals (strategy vs. building vs. product
+                insights), they rely on the **same dense technical vocabulary**
+                in job descriptions (e.g., Python, Cloud, advanced algorithms).
+                They form the "heavy technical backbone" of the industry.
+              </p>
+            </div>
+
+            <div class="analysis-card">
+              <h3>2. The Great "Business Intelligence" Divide</h3>
+              <p>
+                <strong>Observation:</strong> While some
+                <span style="color: #2ca02c">Green dots (BI)</span> are near the
+                technical core, a significant sub-group is completely isolated
+                on the far right.
+              </p>
+              <p>
+                <strong>Interpretation:</strong> "Business Intelligence" is a
+                fractured term. It encompasses two very different jobs today:
+                deeply technical BI Analysts (integrated with engineering) and
+                traditional Reporting Specialists (far removed from code).
+              </p>
+            </div>
+
+            <div class="analysis-card">
+              <h3>3. The Vertical Axis: Scope vs. Execution</h3>
+              <p>
+                <strong>Observation:</strong>
+                <span style="color: #ff7f0e">Generalist profiles</span> float at
+                the top, while
+                <span style="color: #8c564b">Junior roles</span> cluster at the
+                very bottom.
+              </p>
+              <p>
+                <strong>Interpretation:</strong> This vertical separation
+                reveals a hierarchy of complexity. Entry-level jobs use a
+                fundamentally different vocabulary—focused on basic task
+                execution—compared to the highly versatile, strategic vocabulary
+                of senior generalists.
+              </p>
+            </div>
+          </div>
+
+          <div class="key-takeaway">
+            <h3>Key Takeaway</h3>
+            <p>
+              The data job market is no longer a flat list of titles. It has
+              evolved into a
+              <strong>highly integrated technical ecosystem</strong> at its
+              center, with distinct, specialized satellites orbiting it.
+            </p>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <button id="backToTop" aria-label="Back to top">↑</button>
+    <footer>© 2025 Data Job Analysis | Designed by Safia Lamri</footer>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="../static/script.js"></script>
+    <script src="../static/pages3-tendances.js"></script>
+  </body>
+</html>

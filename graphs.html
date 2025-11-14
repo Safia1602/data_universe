@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Data Job Visualizations — Safia Lamri</title>
+
+    <style>
+      :root {
+        --bg: #0a0a0a;
+        --card: #111;
+        --accent: cyan;
+        --text: #f5f5f5;
+        --gray: #aaa;
+      }
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "Poppins", sans-serif;
+        background: linear-gradient(135deg, #050505, #0a0a0a);
+        color: var(--text);
+        scroll-behavior: smooth;
+        overflow-x: hidden;
+        position: relative;
+      }
+
+      @keyframes flow {
+        0% {
+          transform: translate(0, 0) scale(1);
+        }
+        100% {
+          transform: translate(-10%, -10%) scale(1.1);
+        }
+      }
+
+      nav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1rem 5%;
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(10px);
+        z-index: 1000;
+      }
+      .logo {
+        font-size: 1.4rem;
+        font-weight: bold;
+        color: var(--accent);
+      }
+      .logo span {
+        color: white;
+      }
+      nav ul {
+        list-style: none;
+        display: flex;
+        gap: 2rem;
+      }
+      nav ul li {
+        position: relative;
+      }
+      nav ul li a {
+        color: var(--text);
+        text-decoration: none;
+        transition: 0.3s;
+      }
+      nav ul li a:hover {
+        color: var(--accent);
+      }
+
+      .dropdown-content {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        background: #111;
+        border-radius: 6px;
+        min-width: 160px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+      }
+      .dropdown-content li {
+        display: block;
+        padding: 0.5rem 1rem;
+      }
+      .dropdown-content li a {
+        color: var(--gray);
+      }
+      .dropdown-content li a:hover {
+        color: var(--accent);
+      }
+      .dropdown:hover .dropdown-content {
+        display: block;
+      }
+
+      section {
+        padding: 8rem 10%;
+      }
+
+      section h2 {
+        font-size: 2.2rem;
+        text-align: center;
+        color: var(--accent);
+        margin-bottom: 3rem;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+      }
+
+      .selector {
+        text-align: center;
+        margin-bottom: 3rem;
+      }
+
+      .selector label {
+        font-size: 1.1rem;
+        margin-right: 10px;
+        color: var(--gray);
+      }
+
+      select {
+        background: var(--card);
+        color: var(--accent);
+        border: 2px solid var(--accent);
+        padding: 0.7rem 1.2rem;
+        border-radius: 10px;
+        font-size: 1rem;
+        transition: 0.3s;
+        cursor: pointer;
+      }
+
+      select:hover {
+        background: var(--accent);
+        color: var(--bg);
+      }
+
+      .chart-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 4rem;
+      }
+
+      .card {
+        width: 100%;
+        max-width: 950px;
+        background: var(--card);
+        border-radius: 14px;
+        border: 1px solid #222;
+        padding: 2rem;
+        transition: 0.4s ease;
+        scroll-margin-top: 100px;
+        position: relative;
+        overflow: hidden;
+      }
+
+      .card::before {
+        content: "";
+        position: absolute;
+        top: -50%;
+        left: -50%;
+        width: 200%;
+        height: 200%;
+        background: radial-gradient(
+          circle at center,
+          rgba(0, 255, 255, 0.08),
+          transparent 60%
+        );
+        opacity: 0;
+        transition: 0.5s;
+      }
+
+      .card:hover::before {
+        opacity: 1;
+      }
+
+      .card:hover {
+        transform: translateY(-6px);
+        border-color: var(--accent);
+        box-shadow: 0 0 25px rgba(0, 255, 255, 0.2);
+      }
+
+      .card h3 {
+        text-align: center;
+        margin-bottom: 1rem;
+        font-size: 1.5rem;
+        color: var(--accent);
+      }
+
+      .card div {
+        width: 100%;
+        height: 400px;
+      }
+
+      .fade-in {
+        opacity: 0;
+        transform: translateY(30px);
+        transition: opacity 0.8s ease, transform 0.8s ease;
+      }
+
+      .fade-in.visible {
+        opacity: 1;
+        transform: translateY(0);
+      }
+
+      #backToTop {
+        position: fixed;
+        bottom: 25px;
+        right: 25px;
+        background: var(--accent);
+        color: var(--bg);
+        border: none;
+        border-radius: 50%;
+        width: 50px;
+        height: 50px;
+        font-size: 1.5rem;
+        cursor: pointer;
+        box-shadow: 0 0 10px var(--accent);
+        display: none;
+        transition: 0.3s ease;
+        z-index: 999;
+      }
+
+      #backToTop:hover {
+        transform: scale(1.1);
+      }
+
+      .cursor {
+        width: 15px;
+        height: 15px;
+        border: 2px solid cyan;
+        border-radius: 50%;
+        position: fixed;
+        pointer-events: none;
+        transform: translate(-50%, -50%);
+        transition: 0.08s ease;
+        z-index: 2000;
+      }
+
+      footer {
+        text-align: center;
+        padding: 2rem;
+        color: var(--gray);
+        font-size: 0.9rem;
+        border-top: 1px solid #222;
+        margin-top: 4rem;
+      }
+      nav ul li a {
+        color: var(--text);
+        text-decoration: none;
+        transition: color 0.3s, text-shadow 0.3s;
+      }
+
+      nav ul li a:hover {
+        color: #ff69b4;
+        text-shadow: 0 0 8px rgba(255, 105, 180, 0.6);
+      }
+      nav ul li a.external {
+        color: #04d6ed;
+      }
+
+      nav ul li a.external:hover {
+        color: #ffb6c1;
+        text-shadow: 0 0 10px rgba(255, 182, 193, 0.6);
+      }
+    </style>
+  </head>
+
+  <body>
+    <!-- ===== NAVIGATION ===== -->
+    <nav>
+      <a href="startup.html" class="logo">Data<span>Universe</span></a>
+
+      <ul class="menu">
+        <li class="dropdown">
+          <a href="startup.html#project" class="dropdown-toggle">Project ▾</a>
+          <ul class="dropdown-content">
+            <li><a href="explanation.html">Explanation</a></li>
+            <li><a href="startup.html#objective">Objective</a></li>
+            <li><a href="startup.html#motivation">Motivation</a></li>
+            <li><a href="startup.html#tasks">Main Tasks</a></li>
+            <li><hr class="dropdown-divider" /></li>
+            <li class="dropdown-header">Results</li>
+            <li><a href="startup.html#expected">Expected Results</a></li>
+            <li><a href="startup.html#mvp">MVP</a></li>
+            <li><a href="graphs.html">Visualizations</a></li>
+          </ul>
+        </li>
+
+        <li><a href="index.html">The Big Picture</a></li>
+
+        <li><a href="explorateur.html">The Job Explorer</a></li>
+
+        <li><a href="tendances.html">The Hidden Trends</a></li>
+
+        <li><a href="startup.html#contact">Contact</a></li>
+      </ul>
+    </nav>
+
+    <section id="graphs">
+      <h2>Data Visualizations — LinkedIn Job Market Insights</h2>
+
+      <div class="selector fade-in">
+        <label for="graphSelect">Jump to a graph:</label>
+        <select id="graphSelect">
+          <option value="#chart-titles">Top 10 Job Titles</option>
+          <option value="#chart-companies">Top 10 Companies</option>
+          <option value="#chart-countries">Top 10 Countries / Regions</option>
+          <option value="#chart-timeline">Job Offers by Month</option>
+        </select>
+      </div>
+
+      <div class="chart-container">
+        <div class="card fade-in" id="titles-card">
+          <h3>Top 10 Job Titles</h3>
+          <div id="chart-titles"></div>
+        </div>
+
+        <div class="card fade-in" id="companies-card">
+          <h3>Top 10 Companies</h3>
+          <div id="chart-companies"></div>
+        </div>
+
+        <div class="card fade-in" id="countries-card">
+          <h3>Top 10 Countries / Regions</h3>
+          <div id="chart-countries"></div>
+        </div>
+
+        <div class="card fade-in" id="timeline-card">
+          <h3>Job Offers by Month</h3>
+          <div id="chart-timeline"></div>
+        </div>
+      </div>
+    </section>
+
+    <button id="backToTop">↑</button>
+    <div class="cursor"></div>
+    <footer>© 2025 Data Job Analysis | Safia Lamri</footer>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="../static/graphs.js" defer></script>
+    <script src="../static/script.js" defer></script>
+
+    <script>
+      document.getElementById("graphSelect").addEventListener("change", (e) => {
+        const target = document.querySelector(e.target.value);
+        if (target) target.scrollIntoView({ behavior: "smooth" });
+      });
+
+      const fadeElements = document.querySelectorAll(".fade-in");
+      const revealOnScroll = () => {
+        fadeElements.forEach((el) => {
+          const rect = el.getBoundingClientRect();
+          if (rect.top < window.innerHeight - 100) el.classList.add("visible");
+        });
+      };
+      window.addEventListener("scroll", revealOnScroll);
+      revealOnScroll();
+
+      const backToTop = document.getElementById("backToTop");
+      window.addEventListener("scroll", () => {
+        if (window.scrollY > 300) backToTop.style.display = "block";
+        else backToTop.style.display = "none";
+      });
+      backToTop.addEventListener("click", () => {
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      });
+
+      const cursor = document.querySelector(".cursor");
+      document.addEventListener("mousemove", (e) => {
+        cursor.style.left = e.clientX + "px";
+        cursor.style.top = e.clientY + "px";
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Data Job Analysis | Strategic Insights</title>
+    <link rel="stylesheet" href="../static/style.css" />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+  </head>
+  <body>
+    <div class="cursor"></div>
+
+    <nav>
+      <a href="startup.html" class="logo">Data<span>Universe</span></a>
+
+      <ul class="menu">
+        <li class="dropdown">
+          <a href="startup.html#project" class="dropdown-toggle">Project ▾</a>
+          <ul class="dropdown-content">
+            <li><a href="explanation.html">Explanation</a></li>
+            <li><a href="startup.html#objective">Objective</a></li>
+            <li><a href="startup.html#motivation">Motivation</a></li>
+            <li><a href="startup.html#tasks">Main Tasks</a></li>
+            <li><hr class="dropdown-divider" /></li>
+            <li class="dropdown-header">Results</li>
+            <li><a href="startup.html#expected">Expected Results</a></li>
+            <li><a href="startup.html#mvp">MVP</a></li>
+          </ul>
+        </li>
+
+        <li><a href="index.html">The Big Picture</a></li>
+
+        <li><a href="explorateur.html">The Job Explorer</a></li>
+
+        <li><a href="tendances.html">The Hidden Trends</a></li>
+
+        <li><a href="startup.html#contact">Contact</a></li>
+      </ul>
+    </nav>
+
+    <header class="hero-banner-simple">
+      <h1>Strategic Insights</h1>
+      <p class="subtitle">
+        Beyond the numbers: What truly drives value in the data market?
+      </p>
+    </header>
+
+    <main>
+      <section id="popularity-trap" class="reveal">
+        <h2>The Popularity Trap</h2>
+        <p class="story-intro">
+          Are you learning the same skills as everyone else? This chart compares
+          <strong>popularity</strong> (number of job postings) vs.
+          <strong>actual value</strong> (average salary). <br /><br />
+          <span style="color: #ff4757">● Red dots</span> are high-competition,
+          average-pay skills.<br />
+          <span style="color: #2ed573">● Green dots</span> are the hidden gems:
+          rare but highly paid.
+        </p>
+
+        <div class="chart-container" style="display: block">
+          <div class="card chart-card large" id="card-scatter">
+            <h3>Skill Popularity vs. Average Salary (USD)</h3>
+            <div id="viz-popularity-scatter"></div>
+            <p class="chart-explanation">
+              Hover over the circles to see the exact salary and number of
+              mentions for each skill.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section id="career-ladder" class="reveal">
+        <h2>The Career Multiplier</h2>
+        <p class="story-intro">
+          Experience is the biggest lever for salary growth. See how the median
+          salary jumps from one seniority level to the next.
+        </p>
+
+        <div class="chart-container">
+          <div class="card kpi-card">
+            <h3>Junior to Senior Multiplier</h3>
+            <span id="kpi-multiplier">...</span>
+            <p class="chart-explanation">Average salary increase factor.</p>
+          </div>
+
+          <div class="card chart-card large" id="card-ladder">
+            <h3>Median Salary by Seniority Level</h3>
+            <div id="viz-seniority-ladder"></div>
+            <p class="chart-explanation">Based on annual USD salaries.</p>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <button id="backToTop" aria-label="Back to top">↑</button>
+
+    <footer>© 2025 Data Job Analysis | Designed by Safia Lamri</footer>
+
+    <script src="script.js"></script>
+    <script src="../static/page3-insights.js"></script>
+  </body>
+</html>

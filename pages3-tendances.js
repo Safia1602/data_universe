@@ -114,7 +114,7 @@ document.addEventListener("DOMContentLoaded", () => {
     .style("transition", "opacity 0.2s");
 
   // --- 4. LOAD DATA ---
-  d3.csv("../data/clustered_jobs.csv")
+  d3.csv("clustered_jobs.csv")
     .then((data) => {
       data.forEach((d) => {
         d.svd_x = +d.svd_x;
